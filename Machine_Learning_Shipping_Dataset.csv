@@ -1,0 +1,1001 @@
+Date Shipped,ShipFromLocation,ShipToLocation,Distance,Item,Weight,Shipment Cost,Fuel Surcharge,Tarping Charge,Line Haul Pass,Spot Quote,Stop Off Charges
+4/13/23,"Pittsburgh, PA","San Diego, CA",1318,Roofing Membrane Roll,617.72,1827.94,105.44,0,1647.5,1763.06,75
+3/11/24,"Charlotte, NC","Chicago, IL",533,Drainage Mat,586.01,708.89,42.64,0,666.25,697.01,0
+9/28/23,"Hartford, CT","Denver, CO",1770,Underlayment Roll,161.5,2379.1,141.6,0,2212.5,2319.2,25
+4/17/23,"Jacksonville, FL","Seattle, WA",1572,Metal Roofing Coil,1833.67,2215.76,125.76,100,1965,2081.04,25
+3/13/23,"Baltimore, MD","Phoenix, AZ",1514,Roofing Membrane Roll,619.81,2063.62,121.12,0,1892.5,1773.8,50
+12/1/24,"Wilmington, DE","Des Moines, IA",331,Metal Roofing Coil,2265.64,440.23,26.48,0,413.75,444.96,0
+1/21/23,"Hartford, CT","Phoenix, AZ",2063,Drainage Mat,473.19,2918.79,165.04,100,2578.75,2689.01,75
+9/6/24,"Hartford, CT","Salt Lake City, UT",2088,Roofing Membrane Roll,485.07,2877.04,167.04,100,2610,2578.02,0
+5/2/23,"Orlando, FL","Milwaukee, WI",1448,Insulation Board,592.89,2050.84,115.84,100,1810,1767.97,25
+4/11/24,"Newark, NJ","Houston, TX",2351,Drainage Mat,226.65,3251.83,188.08,100,2938.75,2963.93,25
+8/3/23,"Jacksonville, FL","Kansas City, MO",1402,Insulation Board,875.93,1964.66,112.16,50,1752.5,1626.06,50
+11/27/23,"Charlotte, NC","Phoenix, AZ",1512,Insulation Board,851.45,2135.96,120.96,50,1890,2038.89,75
+4/3/24,"Norfolk, VA","Denver, CO",1320,Fasteners and Plates,199.65,1805.6,105.6,0,1650,1567,50
+3/29/23,"Norfolk, VA","Las Vegas, NV",2443,Insulation Board,557.25,3299.19,195.44,50,3053.75,3184.49,0
+1/8/24,"Providence, RI","Minneapolis, MN",1341,Metal Roofing Coil,2413.74,1883.53,107.28,50,1676.25,1688.48,50
+4/10/23,"Orlando, FL","Portland, OR",2463,Metal Roofing Coil,2392.52,3375.79,197.04,100,3078.75,3261.81,0
+10/25/24,"Savannah, GA","Denver, CO",329,Underlayment Roll,245.91,587.57,26.32,100,411.25,422.86,50
+5/11/23,"Buffalo, NY","Des Moines, IA",993,Insulation Board,726.2,1495.69,79.44,100,1241.25,1265.83,75
+10/23/24,"Albany, NY","Phoenix, AZ",2065,Drainage Mat,272.64,2846.45,165.2,50,2581.25,2440.49,50
+11/5/23,"Baltimore, MD","Seattle, WA",562,Drainage Mat,384.8,822.46,44.96,50,702.5,714.62,25
+12/10/23,"Richmond, VA","Detroit, MI",1839,Metal Roofing Coil,1870.56,2620.87,147.12,100,2298.75,2497.42,75
+5/6/24,"Richmond, VA","Chicago, IL",2063,Fasteners and Plates,187.81,2918.79,165.04,100,2578.75,2399.55,75
+2/18/24,"Pittsburgh, PA","Omaha, NE",2128,Drainage Mat,349.77,2905.24,170.24,50,2660,2435.13,25
+1/21/24,"Columbia, SC","Houston, TX",1630,Insulation Board,873.75,2167.9,130.4,0,2037.5,1879.89,0
+7/11/23,"Columbia, SC","Phoenix, AZ",1405,Drainage Mat,266.21,2018.65,112.4,100,1756.25,1904.07,50
+10/4/23,"Pittsburgh, PA","Denver, CO",1135,Underlayment Roll,193.43,1609.55,90.8,100,1418.75,1390.09,0
+6/10/23,"Atlanta, GA","Portland, OR",401,Drainage Mat,497.7,533.33,32.08,0,501.25,451.59,0
+4/4/24,"Richmond, VA","Houston, TX",2491,Fasteners and Plates,67.14,3338.03,199.28,0,3113.75,3340.13,25
+11/10/23,"Savannah, GA","Minneapolis, MN",674,Drainage Mat,338.54,1021.42,53.92,50,842.5,913.01,75
+1/22/23,"Hartford, CT","San Diego, CA",1075,Drainage Mat,289.84,1604.75,86,100,1343.75,1247.23,75
+9/10/23,"Raleigh, NC","Seattle, WA",1403,Roofing Membrane Roll,531.05,1915.99,112.24,50,1753.75,1590.26,0
+7/14/24,"Philadelphia, PA","Kansas City, MO",262,Fasteners and Plates,104.36,523.46,20.96,100,327.5,336.16,75
+4/19/24,"Pittsburgh, PA","Denver, CO",1166,Roofing Membrane Roll,385.07,1550.78,93.28,0,1457.5,1591.9,0
+2/28/23,"Albany, NY","Kansas City, MO",541,Roofing Membrane Roll,522.92,819.53,43.28,100,676.25,743.45,0
+5/25/24,"Tampa, FL","Indianapolis, IN",1959,Drainage Mat,319.84,2655.47,156.72,0,2448.75,2398.46,50
+11/12/24,"Orlando, FL","Dallas, TX",922,Insulation Board,583.96,1276.26,73.76,50,1152.5,1084.53,0
+4/20/24,"Charlotte, NC","San Diego, CA",1700,Drainage Mat,449.99,2361,136,50,2125,2268.04,50
+11/30/24,"Hartford, CT","Portland, OR",1594,Insulation Board,526.28,2245.02,127.52,100,1992.5,2003.52,25
+7/9/23,"Albany, NY","Salt Lake City, UT",2361,Underlayment Roll,232.23,3240.13,188.88,50,2951.25,2986.45,50
+11/17/24,"Savannah, GA","Las Vegas, NV",254,Roofing Membrane Roll,341.19,462.82,20.32,100,317.5,333.58,25
+7/16/24,"Charlotte, NC","San Antonio, TX",2101,Fasteners and Plates,90.61,2894.33,168.08,50,2626.25,2578.31,50
+7/20/24,"Baltimore, MD","Seattle, WA",2023,Metal Roofing Coil,2485.25,2815.59,161.84,50,2528.75,2714.36,75
+9/1/23,"Charlotte, NC","Houston, TX",2058,Drainage Mat,210.84,2837.14,164.64,100,2572.5,2660.94,0
+5/19/24,"Jacksonville, FL","Des Moines, IA",1487,Metal Roofing Coil,2216.53,2102.71,118.96,50,1858.75,1972.25,75
+5/11/23,"Savannah, GA","Indianapolis, IN",651,Underlayment Roll,316.68,890.83,52.08,0,813.75,755.34,25
+4/29/24,"Orlando, FL","San Antonio, TX",1143,Insulation Board,617.26,1620.19,91.44,50,1428.75,1289.59,50
+10/8/24,"Hartford, CT","Los Angeles, CA",346,Drainage Mat,494.36,460.18,27.68,0,432.5,465.06,0
+1/21/23,"Norfolk, VA","Portland, OR",713,Insulation Board,668.57,1023.29,57.04,0,891.25,947.83,75
+6/16/23,"Raleigh, NC","Chicago, IL",1609,Insulation Board,634.35,2314.97,128.72,100,2011.25,2047.57,75
+10/1/23,"Jacksonville, FL","Houston, TX",1004,Fasteners and Plates,174.6,1385.32,80.32,50,1255,1323.73,0
+1/23/24,"Newark, NJ","Minneapolis, MN",2090,Underlayment Roll,230.84,2904.7,167.2,50,2612.5,2750.23,75
+8/23/24,"Atlanta, GA","San Antonio, TX",2306,Metal Roofing Coil,1879.97,3191.98,184.48,50,2882.5,2865.82,75
+11/12/23,"Buffalo, NY","San Antonio, TX",720,Underlayment Roll,227.56,1057.6,57.6,50,900,924.03,50
+1/14/23,"Boston, MA","Dallas, TX",1501,Insulation Board,587.21,2121.33,120.08,100,1876.25,1846.87,25
+8/30/23,"Atlanta, GA","Portland, OR",1004,Underlayment Roll,257.71,1510.32,80.32,100,1255,1335.97,75
+12/12/23,"Newark, NJ","Des Moines, IA",1579,Insulation Board,547.1,2100.07,126.32,0,1973.75,1884.56,0
+7/18/24,"Tampa, FL","Los Angeles, CA",1601,Metal Roofing Coil,2083.67,2254.33,128.08,100,2001.25,1843.78,25
+12/6/23,"Columbia, SC","Detroit, MI",845,Roofing Membrane Roll,354.75,1298.85,67.6,100,1056.25,1076.83,75
+4/2/23,"Philadelphia, PA","San Diego, CA",654,Underlayment Roll,289.93,944.82,52.32,50,817.5,885.26,25
+1/2/24,"Baltimore, MD","Denver, CO",901,Drainage Mat,361.75,1273.33,72.08,50,1126.25,1108.69,25
+3/30/24,"Tampa, FL","Denver, CO",1586,Underlayment Roll,149.89,2184.38,126.88,0,1982.5,1817.08,75
+3/3/24,"Charlotte, NC","Dallas, TX",228,Drainage Mat,508.39,353.24,18.24,0,285,304.21,50
+5/23/24,"Tampa, FL","Portland, OR",1336,Roofing Membrane Roll,442.27,1926.88,106.88,100,1670,1602.24,50
+2/4/23,"Pittsburgh, PA","San Antonio, TX",254,Underlayment Roll,384.79,462.82,20.32,100,317.5,346.33,25
+7/25/23,"Jacksonville, FL","Phoenix, AZ",1512,Underlayment Roll,319.77,2135.96,120.96,50,1890,1712.79,75
+3/22/23,"Boston, MA","Detroit, MI",564,Fasteners and Plates,74.3,875.12,45.12,100,705,681.63,25
+7/15/24,"Columbia, SC","Omaha, NE",2320,Underlayment Roll,242.27,3085.6,185.6,0,2900,2813.89,0
+1/23/24,"Orlando, FL","Chicago, IL",1138,Roofing Membrane Roll,498.2,1613.54,91.04,50,1422.5,1411.03,50
+1/2/23,"Richmond, VA","Denver, CO",1452,Insulation Board,827.64,2056.16,116.16,100,1815,1732.29,25
+1/25/24,"Newark, NJ","Milwaukee, WI",1836,Underlayment Roll,130.93,2541.88,146.88,100,2295,2486.55,0
+7/19/24,"Richmond, VA","Milwaukee, WI",1720,Roofing Membrane Roll,616.01,2462.6,137.6,100,2150,1972.28,75
+4/16/23,"Newark, NJ","Denver, CO",1999,Drainage Mat,549.18,2808.67,159.92,100,2498.75,2651.95,50
+4/21/24,"Philadelphia, PA","San Diego, CA",909,Metal Roofing Coil,2306.87,1283.97,72.72,0,1136.25,1227.91,75
+12/3/24,"Philadelphia, PA","Kansas City, MO",688,Metal Roofing Coil,1954.85,990.04,55.04,0,860,889.23,75
+2/6/24,"Wilmington, DE","San Diego, CA",910,Insulation Board,782.23,1210.3,72.8,0,1137.5,1064.83,0
+12/30/24,"Tampa, FL","Phoenix, AZ",590,Underlayment Roll,241.96,884.7,47.2,50,737.5,681.53,50
+7/9/24,"Charlotte, NC","Milwaukee, WI",1721,Underlayment Roll,189.2,2413.93,137.68,100,2151.25,2342.4,25
+6/11/23,"Tampa, FL","San Diego, CA",1134,Fasteners and Plates,161.76,1633.22,90.72,100,1417.5,1366.21,25
+7/21/23,"Jacksonville, FL","Phoenix, AZ",1382,Metal Roofing Coil,2251.18,1938.06,110.56,100,1727.5,1748.46,0
+9/27/23,"Norfolk, VA","Salt Lake City, UT",1394,Insulation Board,530.78,1979.02,111.52,50,1742.5,1820.83,75
+9/28/23,"Jacksonville, FL","Salt Lake City, UT",1572,Fasteners and Plates,135.86,2165.76,125.76,50,1965,1893.77,25
+3/31/24,"Philadelphia, PA","Chicago, IL",692,Metal Roofing Coil,2164.12,995.36,55.36,50,865,930.16,25
+4/6/24,"Savannah, GA","Kansas City, MO",745,Metal Roofing Coil,1817.08,1040.85,59.6,50,931.25,838.17,0
+12/27/24,"Richmond, VA","Phoenix, AZ",1831,Roofing Membrane Roll,511.57,2560.23,146.48,100,2288.75,2091.93,25
+9/9/23,"Hartford, CT","Omaha, NE",1157,Roofing Membrane Roll,440.28,1538.81,92.56,0,1446.25,1417.88,0
+12/2/24,"Jacksonville, FL","Houston, TX",471,Insulation Board,691.91,751.43,37.68,100,588.75,576.77,25
+10/23/23,"Orlando, FL","San Diego, CA",539,Metal Roofing Coil,2092.44,716.87,43.12,0,673.75,705.05,0
+12/25/24,"Orlando, FL","Portland, OR",1365,Metal Roofing Coil,1877.33,1890.45,109.2,50,1706.25,1826.65,25
+12/20/24,"Philadelphia, PA","Portland, OR",631,Metal Roofing Coil,1963.53,889.23,50.48,0,788.75,853.48,50
+12/4/23,"Baltimore, MD","San Diego, CA",1163,Roofing Membrane Roll,471.11,1646.79,93.04,100,1453.75,1584.58,0
+2/22/23,"Jacksonville, FL","St. Louis, MO",909,Fasteners and Plates,88.85,1333.97,72.72,100,1136.25,1222.4,25
+8/5/23,"Boston, MA","Indianapolis, IN",1285,Metal Roofing Coil,2220.56,1759.05,102.8,0,1606.25,1763.4,50
+7/7/23,"Atlanta, GA","Indianapolis, IN",1794,Metal Roofing Coil,2493.82,2386.02,143.52,0,2242.5,2309.62,0
+1/15/24,"Savannah, GA","Minneapolis, MN",1589,Fasteners and Plates,174.6,2163.37,127.12,50,1986.25,1806.27,0
+5/7/24,"Buffalo, NY","Salt Lake City, UT",2111,Drainage Mat,288.19,2882.63,168.88,50,2638.75,2797.48,25
+2/10/23,"Hartford, CT","St. Louis, MO",1744,Roofing Membrane Roll,687.64,2419.52,139.52,100,2180,2222.41,0
+6/6/23,"Boston, MA","Detroit, MI",1049,Roofing Membrane Roll,369.56,1495.17,83.92,50,1311.25,1441.41,50
+1/15/23,"Philadelphia, PA","Milwaukee, WI",980,Drainage Mat,526.33,1303.4,78.4,0,1225,1234.06,0
+3/6/23,"Hartford, CT","Seattle, WA",1580,Drainage Mat,557.97,2226.4,126.4,50,1975,1958.19,75
+6/4/24,"Raleigh, NC","Seattle, WA",1187,Metal Roofing Coil,1985.92,1578.71,94.96,0,1483.75,1599.11,0
+12/10/23,"Albany, NY","St. Louis, MO",369,Underlayment Roll,355.66,490.77,29.52,0,461.25,445.48,0
+5/9/23,"Wilmington, DE","Houston, TX",1154,Metal Roofing Coil,2185.6,1634.82,92.32,50,1442.5,1416.09,50
+10/9/24,"Wilmington, DE","Denver, CO",1474,Roofing Membrane Roll,302.03,1985.42,117.92,0,1842.5,1676.23,25
+4/16/24,"Baltimore, MD","Des Moines, IA",1911,Metal Roofing Coil,1856.73,2541.63,152.88,0,2388.75,2577.21,0
+3/4/23,"Richmond, VA","Indianapolis, IN",1524,Metal Roofing Coil,2395.84,2101.92,121.92,50,1905,1940.21,25
+5/19/23,"Albany, NY","San Diego, CA",2089,Underlayment Roll,271.4,2878.37,167.12,100,2611.25,2801.61,0
+5/13/24,"Providence, RI","Seattle, WA",2339,Underlayment Roll,363.59,3185.87,187.12,0,2923.75,2723.38,75
+8/15/24,"Baltimore, MD","Salt Lake City, UT",562,Drainage Mat,483.35,772.46,44.96,0,702.5,730.24,25
+1/27/24,"Albany, NY","Milwaukee, WI",899,Underlayment Roll,131.75,1295.67,71.92,100,1123.75,1209.52,0
+11/5/24,"Raleigh, NC","Minneapolis, MN",1254,Roofing Membrane Roll,648.74,1842.82,100.32,100,1567.5,1412.36,75
+2/23/24,"Raleigh, NC","San Diego, CA",1774,Insulation Board,634.05,2484.42,141.92,100,2217.5,1996.25,25
+10/16/23,"Savannah, GA","Dallas, TX",2212,Drainage Mat,532.85,3041.96,176.96,100,2765,2595.3,0
+1/14/24,"Buffalo, NY","Omaha, NE",1336,Insulation Board,746.77,1826.88,106.88,0,1670,1714.03,50
+5/4/24,"Baltimore, MD","Los Angeles, CA",647,Fasteners and Plates,106.5,885.51,51.76,0,808.75,854.01,25
+8/19/23,"Providence, RI","Milwaukee, WI",785,Metal Roofing Coil,1998.34,1094.05,62.8,0,981.25,1072.11,50
+2/10/23,"Baltimore, MD","Portland, OR",1445,Roofing Membrane Roll,456.86,1996.85,115.6,0,1806.25,1662.66,75
+1/28/23,"Wilmington, DE","Minneapolis, MN",683,Roofing Membrane Roll,369.5,1033.39,54.64,50,853.75,930.13,75
+5/15/23,"Columbia, SC","Denver, CO",1117,Roofing Membrane Roll,583.27,1485.61,89.36,0,1396.25,1419.2,0
+7/20/23,"Columbia, SC","Detroit, MI",2457,Roofing Membrane Roll,323.17,3367.81,196.56,50,3071.25,3372.32,50
+2/2/23,"Orlando, FL","Portland, OR",962,Drainage Mat,587.55,1454.46,76.96,100,1202.5,1225.2,75
+2/17/23,"Buffalo, NY","Des Moines, IA",1106,Drainage Mat,209.83,1520.98,88.48,0,1382.5,1333.73,50
+5/17/24,"Wilmington, DE","Los Angeles, CA",769,Drainage Mat,527.51,1147.77,61.52,100,961.25,950.85,25
+2/11/24,"Hartford, CT","Detroit, MI",715,Drainage Mat,387.42,950.95,57.2,0,893.75,822.64,0
+7/27/24,"Norfolk, VA","Dallas, TX",1086,Insulation Board,565.45,1519.38,86.88,0,1357.5,1410.08,75
+12/28/24,"Norfolk, VA","Chicago, IL",1910,Drainage Mat,535.98,2640.3,152.8,50,2387.5,2258.6,50
+4/9/23,"Hartford, CT","Dallas, TX",1188,Insulation Board,609.3,1580.04,95.04,0,1485,1606.63,0
+11/14/24,"Buffalo, NY","Des Moines, IA",1882,Roofing Membrane Roll,555.41,2553.06,150.56,0,2352.5,2325.35,50
+12/26/24,"Raleigh, NC","Phoenix, AZ",1133,Drainage Mat,363.73,1656.89,90.64,100,1416.25,1485.88,50
+6/30/24,"Pittsburgh, PA","San Antonio, TX",992,Fasteners and Plates,54.67,1444.36,79.36,50,1240,1330.36,75
+9/4/24,"Pittsburgh, PA","Seattle, WA",1283,Metal Roofing Coil,2180.26,1756.39,102.64,50,1603.75,1508.71,0
+4/6/24,"Jacksonville, FL","Minneapolis, MN",790,Metal Roofing Coil,2343.62,1225.7,63.2,100,987.5,1055.59,75
+10/4/24,"Newark, NJ","Kansas City, MO",548,Roofing Membrane Roll,307.14,753.84,43.84,0,685,741.42,25
+1/5/23,"Pittsburgh, PA","Houston, TX",726,Drainage Mat,446.66,1015.58,58.08,0,907.5,816.97,50
+8/6/23,"Orlando, FL","Portland, OR",1459,Drainage Mat,250.07,1940.47,116.72,0,1823.75,1714.52,0
+5/17/24,"Jacksonville, FL","Portland, OR",1213,Metal Roofing Coil,1912.58,1688.29,97.04,0,1516.25,1446.2,75
+2/2/24,"Norfolk, VA","Denver, CO",1287,Drainage Mat,373.3,1711.71,102.96,0,1608.75,1496,0
+1/28/24,"Charlotte, NC","Portland, OR",1543,Metal Roofing Coil,1850.71,2152.19,123.44,50,1928.75,1921.01,50
+7/26/23,"Columbia, SC","Milwaukee, WI",2258,Underlayment Roll,316.57,3078.14,180.64,0,2822.5,2967.61,75
+1/15/23,"Charlotte, NC","Salt Lake City, UT",1615,Roofing Membrane Roll,611.94,2322.95,129.2,100,2018.75,2010.88,75
+7/7/24,"Philadelphia, PA","Detroit, MI",1895,Insulation Board,558.37,2645.35,151.6,100,2368.75,2368.22,25
+4/5/24,"Philadelphia, PA","Las Vegas, NV",913,Roofing Membrane Roll,384.14,1289.29,73.04,50,1141.25,1101.64,25
+11/21/24,"Richmond, VA","Chicago, IL",1968,Insulation Board,713.7,2617.44,157.44,0,2460,2254.59,0
+7/28/24,"Hartford, CT","Salt Lake City, UT",1117,Underlayment Roll,123.57,1635.61,89.36,100,1396.25,1293.69,50
+8/29/23,"Charlotte, NC","San Diego, CA",2369,Roofing Membrane Roll,380.34,3225.77,189.52,50,2961.25,3151.62,25
+7/17/24,"Atlanta, GA","Salt Lake City, UT",1528,Metal Roofing Coil,1917.24,2182.24,122.24,100,1910,1766.45,50
+4/6/23,"Atlanta, GA","Kansas City, MO",2470,Fasteners and Plates,54.74,3360.1,197.6,0,3087.5,3216.59,75
+4/29/24,"Richmond, VA","Minneapolis, MN",2083,Roofing Membrane Roll,678.94,2870.39,166.64,50,2603.75,2751.34,50
+2/11/24,"Norfolk, VA","Indianapolis, IN",2254,Metal Roofing Coil,2370.38,3172.82,180.32,100,2817.5,3039.98,75
+8/19/23,"Tampa, FL","San Diego, CA",221,Roofing Membrane Roll,538.99,393.93,17.68,50,276.25,275.19,50
+10/16/24,"Orlando, FL","Las Vegas, NV",1073,Insulation Board,710.56,1502.09,85.84,50,1341.25,1229.02,25
+6/20/23,"Richmond, VA","San Diego, CA",1760,Metal Roofing Coil,2215.3,2390.8,140.8,0,2200,2250.93,50
+6/24/24,"Boston, MA","Indianapolis, IN",884,Insulation Board,890.35,1225.72,70.72,0,1105,1169.02,50
+2/5/23,"Pittsburgh, PA","Denver, CO",2189,Insulation Board,517.46,2961.37,175.12,50,2736.25,2820.12,0
+6/8/24,"Columbia, SC","San Antonio, TX",1282,Fasteners and Plates,199.45,1855.06,102.56,100,1602.5,1468.38,50
+6/9/23,"Hartford, CT","Kansas City, MO",2340,Metal Roofing Coil,2276.16,3162.2,187.2,50,2925,2650.43,0
+11/29/24,"Norfolk, VA","Minneapolis, MN",1948,Roofing Membrane Roll,636.18,2765.84,155.84,100,2435,2394.05,75
+8/31/23,"Albany, NY","Minneapolis, MN",715,Metal Roofing Coil,2097.85,1075.95,57.2,50,893.75,980.92,75
+3/27/23,"Norfolk, VA","Des Moines, IA",807,Fasteners and Plates,131.5,1073.31,64.56,0,1008.75,996.37,0
+7/31/24,"Columbia, SC","Kansas City, MO",1641,Fasteners and Plates,109.33,2282.53,131.28,50,2051.25,2114.84,50
+11/12/24,"Providence, RI","San Antonio, TX",1469,Metal Roofing Coil,2214.65,1953.77,117.52,0,1836.25,1729.99,0
+7/10/24,"Savannah, GA","Milwaukee, WI",2268,Roofing Membrane Roll,486.33,3141.44,181.44,100,2835,2685.19,25
+7/27/24,"Pittsburgh, PA","Seattle, WA",677,Drainage Mat,486.33,1025.41,54.16,100,846.25,868.68,25
+10/7/24,"Jacksonville, FL","Los Angeles, CA",574,Underlayment Roll,391.42,763.42,45.92,0,717.5,768.35,0
+1/28/23,"Hartford, CT","Phoenix, AZ",1725,Insulation Board,674.87,2369.25,138,0,2156.25,2132.66,75
+9/11/24,"Jacksonville, FL","Denver, CO",329,Drainage Mat,431.77,587.57,26.32,100,411.25,383.57,50
+7/9/24,"Raleigh, NC","Des Moines, IA",227,Insulation Board,624.86,351.91,18.16,50,283.75,304.07,0
+12/6/23,"Norfolk, VA","Detroit, MI",1647,Underlayment Roll,197.56,2240.51,131.76,0,2058.75,1950.47,50
+11/27/23,"Buffalo, NY","Salt Lake City, UT",829,Insulation Board,594.42,1152.57,66.32,50,1036.25,1001.2,0
+10/1/24,"Savannah, GA","Detroit, MI",1061,Underlayment Roll,201.1,1486.13,84.88,0,1326.25,1307.92,75
+5/20/24,"Charlotte, NC","Phoenix, AZ",775,Fasteners and Plates,138.18,1080.75,62,50,968.75,904.35,0
+12/14/23,"Savannah, GA","Houston, TX",2220,Underlayment Roll,281.66,3027.6,177.6,0,2775,2931.39,75
+4/17/24,"Albany, NY","Detroit, MI",2403,Fasteners and Plates,170.85,3370.99,192.24,100,3003.75,3224.99,75
+8/19/23,"Hartford, CT","Los Angeles, CA",2139,Insulation Board,715.96,2894.87,171.12,50,2673.75,2934.01,0
+7/9/23,"Buffalo, NY","Phoenix, AZ",1243,Fasteners and Plates,129.68,1753.19,99.44,50,1553.75,1410.6,50
+8/13/23,"Albany, NY","Des Moines, IA",1282,Drainage Mat,289.88,1755.06,102.56,0,1602.5,1475.36,50
+1/20/24,"Raleigh, NC","Omaha, NE",689,Fasteners and Plates,56.24,966.37,55.12,0,861.25,857.79,50
+1/12/24,"Orlando, FL","Phoenix, AZ",416,Underlayment Roll,101.48,653.28,33.28,50,520,569.2,50
+10/10/23,"Tampa, FL","Houston, TX",1118,Drainage Mat,381.9,1611.94,89.44,50,1397.5,1296.78,75
+9/24/24,"Baltimore, MD","Detroit, MI",507,Underlayment Roll,139.81,774.31,40.56,50,633.75,595.96,50
+9/19/24,"Providence, RI","Kansas City, MO",1564,Metal Roofing Coil,1913.67,2080.12,125.12,0,1955,2045.25,0
+9/16/23,"Richmond, VA","Detroit, MI",716,Roofing Membrane Roll,477.5,1077.28,57.28,100,895,837.21,25
+12/25/23,"Boston, MA","Dallas, TX",1342,Metal Roofing Coil,2263.14,1859.86,107.36,50,1677.5,1635.33,25
+12/10/24,"Philadelphia, PA","San Diego, CA",502,Fasteners and Plates,124.58,742.66,40.16,0,627.5,568.56,75
+3/31/24,"Providence, RI","Denver, CO",2187,Fasteners and Plates,169.33,2958.71,174.96,0,2733.75,2788.76,50
+2/15/24,"Jacksonville, FL","Milwaukee, WI",1527,Roofing Membrane Roll,563.55,2055.91,122.16,0,1908.75,1938.22,25
+10/10/24,"Savannah, GA","St. Louis, MO",1209,Fasteners and Plates,148.68,1657.97,96.72,50,1511.25,1456.27,0
+11/14/23,"Richmond, VA","Dallas, TX",887,Drainage Mat,362.76,1179.71,70.96,0,1108.75,1171.37,0
+11/7/24,"Newark, NJ","Chicago, IL",1547,Fasteners and Plates,93.3,2132.51,123.76,50,1933.75,1896.68,25
+8/13/23,"Richmond, VA","Houston, TX",218,Drainage Mat,570.27,339.94,17.44,50,272.5,294.37,0
+8/22/23,"Wilmington, DE","Omaha, NE",1050,Metal Roofing Coil,2358.47,1471.5,84,0,1312.5,1395.93,75
+11/14/24,"Hartford, CT","San Diego, CA",654,Metal Roofing Coil,2007.81,869.82,52.32,0,817.5,789.44,0
+10/25/24,"Orlando, FL","Dallas, TX",910,Fasteners and Plates,104.97,1385.3,72.8,100,1137.5,1181.97,75
+1/9/24,"Wilmington, DE","Portland, OR",1640,Underlayment Roll,264.55,2231.2,131.2,0,2050,2068.73,50
+11/2/24,"Raleigh, NC","Omaha, NE",2209,Underlayment Roll,168.18,3062.97,176.72,100,2761.25,2818.38,25
+8/30/24,"Wilmington, DE","Salt Lake City, UT",1161,Underlayment Roll,292.77,1594.13,92.88,50,1451.25,1451.38,0
+4/16/24,"Orlando, FL","Houston, TX",1673,Drainage Mat,545.33,2275.09,133.84,50,2091.25,2264.5,0
+8/21/23,"Tampa, FL","Omaha, NE",211,Insulation Board,636.5,280.63,16.88,0,263.75,258.41,0
+11/22/24,"Richmond, VA","Minneapolis, MN",1963,Underlayment Roll,173.82,2760.79,157.04,100,2453.75,2401.91,50
+4/23/23,"Tampa, FL","San Diego, CA",1090,Insulation Board,825.19,1599.7,87.2,100,1362.5,1231.22,50
+5/11/24,"Orlando, FL","Denver, CO",535,Drainage Mat,372.34,861.55,42.8,100,668.75,611.41,50
+3/17/24,"Buffalo, NY","San Diego, CA",914,Insulation Board,597.39,1315.62,73.12,100,1142.5,1042.02,0
+7/17/24,"Raleigh, NC","Kansas City, MO",986,Underlayment Roll,243.75,1436.38,78.88,50,1232.5,1150.25,75
+9/25/23,"Baltimore, MD","Dallas, TX",1892,Roofing Membrane Roll,402.71,2691.36,151.36,100,2365,2380.26,75
+5/24/24,"Richmond, VA","Indianapolis, IN",1643,Drainage Mat,324.52,2235.19,131.44,50,2053.75,2142.53,0
+1/21/24,"Charlotte, NC","Phoenix, AZ",2337,Metal Roofing Coil,2483.71,3158.21,186.96,0,2921.25,2934.38,50
+1/22/24,"Jacksonville, FL","Salt Lake City, UT",1262,Insulation Board,772.45,1728.46,100.96,0,1577.5,1477.99,50
+4/23/23,"Hartford, CT","Omaha, NE",644,Fasteners and Plates,66.03,981.52,51.52,50,805,872.26,75
+9/4/24,"Philadelphia, PA","Phoenix, AZ",1998,Fasteners and Plates,122.53,2782.34,159.84,50,2497.5,2522.59,75
+9/16/24,"Savannah, GA","Milwaukee, WI",2388,Drainage Mat,410.6,3276.04,191.04,100,2985,3067.38,0
+3/22/23,"Newark, NJ","Milwaukee, WI",720,Fasteners and Plates,182.63,1082.6,57.6,100,900,919.98,25
+11/29/24,"Tampa, FL","Los Angeles, CA",2399,Insulation Board,644.31,3190.67,191.92,0,2998.75,2840.94,0
+4/23/23,"Buffalo, NY","Indianapolis, IN",345,Fasteners and Plates,95.31,558.85,27.6,100,431.25,441.93,0
+1/2/23,"Hartford, CT","Portland, OR",780,Underlayment Roll,227.18,1212.4,62.4,100,975,923.37,75
+10/3/24,"Richmond, VA","St. Louis, MO",830,Roofing Membrane Roll,645.12,1178.9,66.4,0,1037.5,953.61,75
+8/8/23,"Pittsburgh, PA","Salt Lake City, UT",1187,Fasteners and Plates,96.84,1703.71,94.96,100,1483.75,1497.61,25
+7/19/24,"Newark, NJ","Indianapolis, IN",1300,Insulation Board,602.75,1729,104,0,1625,1481.5,0
+8/13/23,"Savannah, GA","Houston, TX",2026,Fasteners and Plates,198.17,2844.58,162.08,100,2532.5,2631.34,50
+1/20/24,"Charlotte, NC","Des Moines, IA",1198,Underlayment Roll,232.82,1668.34,95.84,50,1497.5,1378.93,25
+2/7/24,"Newark, NJ","Indianapolis, IN",1390,Underlayment Roll,201.17,1923.7,111.2,0,1737.5,1591.35,75
+9/29/24,"Albany, NY","Los Angeles, CA",2122,Metal Roofing Coil,2251.7,2872.26,169.76,0,2652.5,2558.8,50
+5/10/23,"Jacksonville, FL","Dallas, TX",907,Fasteners and Plates,101.53,1231.31,72.56,0,1133.75,1138.07,25
+2/22/23,"Atlanta, GA","Seattle, WA",359,Insulation Board,767.84,552.47,28.72,0,448.75,428.21,75
+11/14/24,"Savannah, GA","Kansas City, MO",257,Roofing Membrane Roll,560.35,466.81,20.56,100,321.25,301.35,25
+12/30/24,"Orlando, FL","Kansas City, MO",1432,Insulation Board,897.66,2029.56,114.56,100,1790,1872.57,25
+11/2/24,"Savannah, GA","Minneapolis, MN",861,Fasteners and Plates,100.04,1195.13,68.88,50,1076.25,1174.75,0
+12/10/24,"Pittsburgh, PA","Denver, CO",1216,Fasteners and Plates,145.24,1742.28,97.28,100,1520,1530.89,25
+2/20/24,"Newark, NJ","Portland, OR",2302,Metal Roofing Coil,2095.88,3136.66,184.16,0,2877.5,2762.89,75
+9/4/23,"Columbia, SC","San Diego, CA",1879,Drainage Mat,518.18,2624.07,150.32,50,2348.75,2224.1,75
+3/14/24,"Baltimore, MD","Seattle, WA",829,Metal Roofing Coil,2481.92,1177.57,66.32,0,1036.25,1085.41,75
+7/22/23,"Richmond, VA","Phoenix, AZ",485,Metal Roofing Coil,2177.97,670.05,38.8,0,606.25,556.89,25
+7/3/23,"Providence, RI","Dallas, TX",1966,Roofing Membrane Roll,335.65,2689.78,157.28,0,2457.5,2510.82,75
+5/3/23,"Charlotte, NC","St. Louis, MO",680,Drainage Mat,512.81,1029.4,54.4,100,850,809.73,25
+2/5/24,"Norfolk, VA","Milwaukee, WI",2210,Roofing Membrane Roll,452.36,2989.3,176.8,0,2762.5,2792.23,50
+10/21/23,"Orlando, FL","Minneapolis, MN",1925,Insulation Board,830.11,2685.25,154,100,2406.25,2619.15,25
+10/7/23,"Atlanta, GA","Des Moines, IA",1642,Underlayment Roll,254.7,2258.86,131.36,50,2052.5,2051.25,25
+9/1/24,"Norfolk, VA","Houston, TX",443,Insulation Board,726.63,639.19,35.44,50,553.75,553.88,0
+7/17/23,"Norfolk, VA","Milwaukee, WI",793,Metal Roofing Coil,1881.46,1129.69,63.44,0,991.25,967.58,75
+5/25/24,"Buffalo, NY","Milwaukee, WI",333,Drainage Mat,412.99,617.89,26.64,100,416.25,440.4,75
+5/24/23,"Savannah, GA","Indianapolis, IN",598,Drainage Mat,527.49,845.34,47.84,0,747.5,676.17,50
+8/31/24,"Boston, MA","Denver, CO",2011,Underlayment Roll,308.49,2724.63,160.88,50,2513.75,2584.62,0
+7/20/23,"Richmond, VA","Chicago, IL",1512,Drainage Mat,430.07,2135.96,120.96,100,1890,1885.11,25
+5/4/23,"Buffalo, NY","Des Moines, IA",437,Metal Roofing Coil,2428.78,631.21,34.96,0,546.25,526.32,50
+7/6/23,"Albany, NY","Seattle, WA",1248,Insulation Board,659.47,1734.84,99.84,0,1560,1518.67,75
+11/22/23,"Hartford, CT","Salt Lake City, UT",1163,Drainage Mat,391.29,1546.79,93.04,0,1453.75,1375.99,0
+4/8/24,"Columbia, SC","Denver, CO",327,Underlayment Roll,264.86,509.91,26.16,0,408.75,444.43,75
+12/15/23,"Raleigh, NC","Los Angeles, CA",2051,Fasteners and Plates,115.93,2827.83,164.08,100,2563.75,2635.96,0
+10/21/24,"Tampa, FL","Chicago, IL",1283,Fasteners and Plates,52.65,1856.39,102.64,100,1603.75,1492.14,50
+2/7/24,"Columbia, SC","Omaha, NE",2153,Drainage Mat,425.78,2938.49,172.24,50,2691.25,2536.1,25
+12/12/23,"Charlotte, NC","Salt Lake City, UT",1476,Roofing Membrane Roll,697.95,2063.08,118.08,100,1845,1916.97,0
+5/25/24,"Wilmington, DE","Minneapolis, MN",1322,Underlayment Roll,229.1,1783.26,105.76,0,1652.5,1527.37,25
+5/27/23,"Hartford, CT","St. Louis, MO",599,Fasteners and Plates,89.81,846.67,47.92,0,748.75,750.16,50
+5/28/23,"Jacksonville, FL","Milwaukee, WI",2348,Insulation Board,591.56,3222.84,187.84,100,2935,2771.11,0
+12/11/24,"Raleigh, NC","San Diego, CA",323,Metal Roofing Coil,2236.73,529.59,25.84,50,403.75,397.78,50
+5/3/24,"Pittsburgh, PA","Omaha, NE",1797,Roofing Membrane Roll,616.84,2440.01,143.76,0,2246.25,2180.77,50
+10/1/24,"Orlando, FL","Milwaukee, WI",1749,Underlayment Roll,224.24,2451.17,139.92,100,2186.25,2288.4,25
+7/4/24,"Savannah, GA","Kansas City, MO",1406,Metal Roofing Coil,2474.68,1919.98,112.48,50,1757.5,1628.78,0
+12/4/23,"Tampa, FL","Kansas City, MO",2111,Roofing Membrane Roll,307.68,2907.63,168.88,100,2638.75,2701.52,0
+10/2/24,"Tampa, FL","Phoenix, AZ",441,Insulation Board,504.85,611.53,35.28,0,551.25,603.72,25
+4/17/24,"Pittsburgh, PA","Kansas City, MO",871,Insulation Board,525.85,1233.43,69.68,0,1088.75,1003.77,75
+5/31/23,"Providence, RI","Minneapolis, MN",2140,Underlayment Roll,293.83,2971.2,171.2,100,2675,2487.34,25
+2/19/24,"Newark, NJ","San Antonio, TX",1787,Roofing Membrane Roll,360.02,2426.71,142.96,50,2233.75,2223.04,0
+10/25/23,"Baltimore, MD","San Diego, CA",2148,Drainage Mat,445.63,2931.84,171.84,50,2685,2627.22,25
+9/2/24,"Jacksonville, FL","St. Louis, MO",304,Underlayment Roll,367.63,404.32,24.32,0,380,392.06,0
+9/20/23,"Richmond, VA","St. Louis, MO",771,Drainage Mat,475.25,1050.43,61.68,0,963.75,921.22,25
+5/24/23,"Tampa, FL","Omaha, NE",2479,Metal Roofing Coil,1826.9,3347.07,198.32,0,3098.75,3300.25,50
+12/12/23,"Baltimore, MD","Detroit, MI",2447,Roofing Membrane Roll,563.74,3329.51,195.76,0,3058.75,3128.45,75
+9/15/24,"Savannah, GA","San Diego, CA",1639,Insulation Board,680.25,2254.87,131.12,0,2048.75,2025.51,75
+7/25/24,"Albany, NY","Las Vegas, NV",286,Fasteners and Plates,56.25,530.38,22.88,100,357.5,368.87,50
+1/2/23,"Hartford, CT","San Antonio, TX",1868,Insulation Board,528.5,2534.44,149.44,0,2335,2282.51,50
+10/31/23,"Jacksonville, FL","Portland, OR",1874,Insulation Board,618.61,2642.42,149.92,100,2342.5,2549.72,50
+9/11/23,"Columbia, SC","Omaha, NE",1484,Insulation Board,574.08,2048.72,118.72,0,1855,1914.47,75
+10/13/24,"Buffalo, NY","Minneapolis, MN",2385,Roofing Membrane Roll,327.49,3297.05,190.8,50,2981.25,2732.39,75
+3/28/24,"Norfolk, VA","Phoenix, AZ",1446,Insulation Board,887.14,1973.18,115.68,0,1807.5,1979.57,50
+2/6/23,"Norfolk, VA","Portland, OR",2027,Drainage Mat,282.27,2745.91,162.16,50,2533.75,2412.49,0
+6/9/23,"Atlanta, GA","Phoenix, AZ",577,Roofing Membrane Roll,557.56,892.41,46.16,100,721.25,655.18,25
+1/9/23,"Tampa, FL","Minneapolis, MN",851,Drainage Mat,328.89,1256.83,68.08,100,1063.75,1165.86,25
+8/21/23,"Albany, NY","San Antonio, TX",2407,Underlayment Roll,245.8,3376.31,192.56,100,3008.75,3021.25,75
+4/9/23,"Buffalo, NY","Chicago, IL",722,Roofing Membrane Roll,562.59,1085.26,57.76,50,902.5,873.31,75
+10/20/24,"Buffalo, NY","San Diego, CA",1888,Insulation Board,739.41,2636.04,151.04,100,2360,2383.64,25
+7/27/23,"Atlanta, GA","Detroit, MI",2203,Metal Roofing Coil,2229.06,2979.99,176.24,0,2753.75,2850.67,50
+5/11/23,"Hartford, CT","Dallas, TX",2369,Insulation Board,854.77,3200.77,189.52,50,2961.25,3175.27,0
+2/8/24,"Philadelphia, PA","Seattle, WA",2396,Underlayment Roll,177.53,3211.68,191.68,0,2995,2827.92,25
+6/1/23,"Buffalo, NY","Dallas, TX",2485,Drainage Mat,536.8,3480.05,198.8,100,3106.25,2907.82,75
+2/23/23,"Tampa, FL","Chicago, IL",797,Metal Roofing Coil,1924.2,1135.01,63.76,50,996.25,1092.82,25
+4/30/23,"Albany, NY","Detroit, MI",969,Fasteners and Plates,130.93,1363.77,77.52,0,1211.25,1256.14,75
+11/3/24,"Tampa, FL","Omaha, NE",1686,Insulation Board,827.11,2417.38,134.88,100,2107.5,1960.26,75
+9/19/24,"Atlanta, GA","Seattle, WA",1924,Insulation Board,793.12,2608.92,153.92,0,2405,2409.02,50
+8/9/24,"Tampa, FL","Chicago, IL",222,Metal Roofing Coil,1874.15,370.26,17.76,0,277.5,254.95,75
+9/16/24,"Savannah, GA","St. Louis, MO",1334,Metal Roofing Coil,2245.4,1899.22,106.72,50,1667.5,1686.86,75
+2/24/24,"Albany, NY","Seattle, WA",1484,Roofing Membrane Roll,398.67,2148.72,118.72,100,1855,2037.46,75
+2/26/24,"Charlotte, NC","Milwaukee, WI",2055,Insulation Board,577.58,2783.15,164.4,50,2568.75,2649.7,0
+4/14/23,"Baltimore, MD","San Diego, CA",2478,Metal Roofing Coil,2188.56,3395.74,198.24,100,3097.5,2904.23,0
+9/11/23,"Hartford, CT","Salt Lake City, UT",1616,Underlayment Roll,212.58,2224.28,129.28,50,2020,2160.61,25
+8/15/23,"Providence, RI","Des Moines, IA",2456,Roofing Membrane Roll,314.12,3341.48,196.48,50,3070,2887.32,25
+4/22/23,"Wilmington, DE","Indianapolis, IN",1978,Fasteners and Plates,163.8,2805.74,158.24,100,2472.5,2376.37,75
+5/24/24,"Orlando, FL","Detroit, MI",897,Underlayment Roll,250.62,1368.01,71.76,100,1121.25,1109.73,75
+4/17/24,"Jacksonville, FL","Detroit, MI",1213,Underlayment Roll,334.12,1738.29,97.04,100,1516.25,1406.42,25
+4/9/23,"Providence, RI","Seattle, WA",2223,Underlayment Roll,223.79,3081.59,177.84,100,2778.75,2502.66,25
+6/2/23,"Norfolk, VA","Phoenix, AZ",387,Drainage Mat,266.75,514.71,30.96,0,483.75,472.88,0
+12/4/23,"Boston, MA","Minneapolis, MN",725,Drainage Mat,435.28,1139.25,58,100,906.25,827.38,75
+12/6/24,"Baltimore, MD","Houston, TX",361,Roofing Membrane Roll,390.18,580.13,28.88,50,451.25,478.78,50
+6/12/23,"Atlanta, GA","Portland, OR",2101,Metal Roofing Coil,1816.05,2894.33,168.08,100,2626.25,2394.38,0
+12/20/24,"Atlanta, GA","Los Angeles, CA",1537,Fasteners and Plates,161.89,2169.21,122.96,50,1921.25,1809.76,75
+11/11/24,"Orlando, FL","Des Moines, IA",631,Fasteners and Plates,127.59,889.23,50.48,0,788.75,733.14,50
+6/10/23,"Buffalo, NY","Seattle, WA",1369,Roofing Membrane Roll,594.2,1970.77,109.52,100,1711.25,1615.63,50
+8/2/24,"Buffalo, NY","Detroit, MI",1526,Drainage Mat,520.55,2154.58,122.08,100,1907.5,1996.62,25
+2/2/24,"Orlando, FL","Denver, CO",397,Drainage Mat,457.03,653.01,31.76,100,496.25,458.37,25
+10/4/23,"Richmond, VA","Minneapolis, MN",2371,Drainage Mat,596.45,3278.43,189.68,100,2963.75,3106,25
+5/18/24,"Albany, NY","Phoenix, AZ",1728,Fasteners and Plates,138.17,2348.24,138.24,0,2160,2367.21,50
+1/27/24,"Norfolk, VA","Portland, OR",2085,Roofing Membrane Roll,310.48,2848.05,166.8,50,2606.25,2651.33,25
+5/15/23,"Charlotte, NC","Minneapolis, MN",2100,Roofing Membrane Roll,507.23,2918,168,100,2625,2856.36,25
+7/14/23,"Baltimore, MD","Seattle, WA",1121,Roofing Membrane Roll,641.09,1665.93,89.68,100,1401.25,1366.76,75
+2/5/24,"Buffalo, NY","Des Moines, IA",2296,Drainage Mat,274.44,3053.68,183.68,0,2870,2846,0
+10/1/24,"Albany, NY","Detroit, MI",1825,Fasteners and Plates,155.9,2502.25,146,50,2281.25,2385.25,25
+2/2/23,"Norfolk, VA","Omaha, NE",2061,Drainage Mat,563.76,2816.13,164.88,0,2576.25,2400.5,75
+11/18/24,"Buffalo, NY","Indianapolis, IN",1819,Insulation Board,552.54,2444.27,145.52,0,2273.75,2481.4,25
+4/4/24,"Wilmington, DE","Portland, OR",817,Fasteners and Plates,92.41,1186.61,65.36,50,1021.25,926.54,50
+4/14/24,"Orlando, FL","Denver, CO",469,Underlayment Roll,174.09,698.77,37.52,50,586.25,559.51,25
+1/10/24,"Philadelphia, PA","Salt Lake City, UT",404,Drainage Mat,371.55,587.32,32.32,50,505,461.1,0
+1/22/23,"Raleigh, NC","Des Moines, IA",1842,Insulation Board,841.24,2499.86,147.36,50,2302.5,2489.66,0
+10/31/24,"Newark, NJ","Denver, CO",889,Roofing Membrane Roll,438.37,1207.37,71.12,0,1111.25,1171.67,25
+2/7/23,"Albany, NY","Milwaukee, WI",2201,Metal Roofing Coil,2429.88,3077.33,176.08,100,2751.25,3006.23,50
+8/18/23,"Pittsburgh, PA","Milwaukee, WI",1649,Metal Roofing Coil,2417.49,2318.17,131.92,50,2061.25,2027.77,75
+12/31/23,"Atlanta, GA","St. Louis, MO",364,Underlayment Roll,287.33,534.12,29.12,50,455,498.64,0
+7/16/24,"Orlando, FL","Minneapolis, MN",1953,Roofing Membrane Roll,561.67,2647.49,156.24,0,2441.25,2473.15,50
+3/13/24,"Albany, NY","Salt Lake City, UT",1052,Drainage Mat,323.48,1399.16,84.16,0,1315,1231.63,0
+10/10/23,"Tampa, FL","Denver, CO",1094,Fasteners and Plates,72.69,1530.02,87.52,50,1367.5,1255.05,25
+1/27/23,"Columbia, SC","Salt Lake City, UT",792,Insulation Board,724.49,1128.36,63.36,0,990,936.03,75
+8/14/23,"Raleigh, NC","Chicago, IL",1904,Roofing Membrane Roll,589.13,2632.32,152.32,100,2380,2478.93,0
+10/4/23,"Raleigh, NC","Salt Lake City, UT",1717,Drainage Mat,445.16,2358.61,137.36,50,2146.25,2295.16,25
+8/31/24,"Tampa, FL","Detroit, MI",1737,Drainage Mat,266.31,2385.21,138.96,50,2171.25,2323.23,25
+10/11/23,"Savannah, GA","Portland, OR",2103,Metal Roofing Coil,1868.29,2921.99,168.24,100,2628.75,2708.12,25
+4/25/24,"Orlando, FL","Denver, CO",1517,Insulation Board,616.24,2192.61,121.36,100,1896.25,1880.79,75
+3/28/24,"Pittsburgh, PA","Kansas City, MO",1159,Metal Roofing Coil,2355.79,1666.47,92.72,100,1448.75,1556.58,25
+10/20/24,"Savannah, GA","San Antonio, TX",2101,Metal Roofing Coil,2031.15,2919.33,168.08,50,2626.25,2373.05,75
+5/30/24,"Hartford, CT","Omaha, NE",1949,Fasteners and Plates,181.67,2642.17,155.92,50,2436.25,2308.98,0
+6/30/24,"Philadelphia, PA","Phoenix, AZ",1080,Underlayment Roll,268.05,1611.4,86.4,100,1350,1364.18,75
+7/11/23,"Columbia, SC","Des Moines, IA",2191,Fasteners and Plates,119.59,2964.03,175.28,0,2738.75,2678.9,50
+2/18/23,"Orlando, FL","Seattle, WA",2014,Roofing Membrane Roll,342.19,2728.62,161.12,0,2517.5,2465.83,50
+5/26/24,"Pittsburgh, PA","Portland, OR",506,Roofing Membrane Roll,610.24,797.98,40.48,100,632.5,595.03,25
+1/17/23,"Buffalo, NY","Omaha, NE",675,Drainage Mat,237.61,897.75,54,0,843.75,856.84,0
+6/21/23,"Tampa, FL","Chicago, IL",1104,Metal Roofing Coil,2018.64,1593.32,88.32,100,1380,1296.05,25
+8/8/23,"Providence, RI","San Diego, CA",667,Drainage Mat,413.21,987.11,53.36,50,833.75,882.65,50
+6/7/23,"Atlanta, GA","Detroit, MI",458,Underlayment Roll,284.04,784.14,36.64,100,572.5,546.96,75
+4/21/24,"Newark, NJ","Portland, OR",2467,Fasteners and Plates,126.06,3356.11,197.36,0,3083.75,2795.96,75
+2/15/23,"Baltimore, MD","San Diego, CA",2115,Metal Roofing Coil,2425.79,2937.95,169.2,100,2643.75,2544.96,25
+1/8/24,"Orlando, FL","Chicago, IL",1981,Drainage Mat,446.12,2809.73,158.48,100,2476.25,2665.64,75
+6/1/24,"Charlotte, NC","St. Louis, MO",1352,Drainage Mat,495.89,1898.16,108.16,100,1690,1685.05,0
+4/9/23,"Buffalo, NY","San Antonio, TX",468,Drainage Mat,467.17,697.44,37.44,50,585,545.92,25
+2/6/23,"Pittsburgh, PA","Salt Lake City, UT",1794,Fasteners and Plates,196.97,2486.02,143.52,100,2242.5,2076.48,0
+10/7/23,"Tampa, FL","San Diego, CA",2443,Fasteners and Plates,133.96,3274.19,195.44,0,3053.75,3251,25
+12/15/23,"Hartford, CT","Dallas, TX",426,Fasteners and Plates,61.91,566.58,34.08,0,532.5,515.12,0
+5/11/24,"Boston, MA","Des Moines, IA",1657,Underlayment Roll,345.72,2328.81,132.56,50,2071.25,2158.34,75
+10/29/23,"Charlotte, NC","Denver, CO",1673,Insulation Board,895.23,2325.09,133.84,100,2091.25,2154.69,0
+6/30/23,"Jacksonville, FL","Kansas City, MO",1449,Underlayment Roll,207.34,2052.17,115.92,50,1811.25,1930.16,75
+8/29/24,"Pittsburgh, PA","Los Angeles, CA",2403,Insulation Board,710.17,3245.99,192.24,50,3003.75,2763.83,0
+4/9/23,"Buffalo, NY","Milwaukee, WI",240,Underlayment Roll,226.04,444.2,19.2,100,300,297.02,25
+11/30/24,"Tampa, FL","Dallas, TX",1095,Fasteners and Plates,142.07,1581.35,87.6,50,1368.75,1433.92,75
+4/26/23,"Hartford, CT","St. Louis, MO",1130,Insulation Board,688.51,1577.9,90.4,0,1412.5,1306.92,75
+7/10/23,"Raleigh, NC","Portland, OR",682,Underlayment Roll,131.9,1007.06,54.56,100,852.5,797.07,0
+9/10/23,"Savannah, GA","Omaha, NE",2248,Insulation Board,762.11,3139.84,179.84,100,2810,2685.95,50
+6/10/23,"Boston, MA","San Diego, CA",641,Underlayment Roll,202.11,902.53,51.28,0,801.25,755.66,50
+9/13/23,"Savannah, GA","San Diego, CA",2474,Fasteners and Plates,81.9,3315.42,197.92,0,3092.5,2971.24,25
+11/19/23,"Philadelphia, PA","Kansas City, MO",2219,Drainage Mat,503.7,3001.27,177.52,0,2773.75,2921.35,50
+5/8/23,"Tampa, FL","Indianapolis, IN",2457,Fasteners and Plates,58.86,3417.81,196.56,100,3071.25,3321.37,50
+1/18/23,"Charlotte, NC","St. Louis, MO",1666,Metal Roofing Coil,1800.13,2340.78,133.28,100,2082.5,2036.58,25
+7/19/24,"Charlotte, NC","San Antonio, TX",700,Underlayment Roll,238.11,1006,56,50,875,854.07,25
+7/23/24,"Raleigh, NC","Chicago, IL",1730,Fasteners and Plates,170.35,2375.9,138.4,0,2162.5,1964.43,75
+11/19/23,"Norfolk, VA","San Antonio, TX",1950,Fasteners and Plates,54.08,2693.5,156,50,2437.5,2612.19,50
+11/16/24,"Newark, NJ","Dallas, TX",1649,Fasteners and Plates,195.92,2368.17,131.92,100,2061.25,2186.95,75
+9/17/24,"Charlotte, NC","Denver, CO",1859,Fasteners and Plates,197.27,2622.47,148.72,100,2323.75,2338.94,50
+10/15/23,"Pittsburgh, PA","Kansas City, MO",597,Underlayment Roll,361.83,919.01,47.76,50,746.25,689.57,75
+10/24/24,"Savannah, GA","Denver, CO",485,Insulation Board,538.61,720.05,38.8,0,606.25,547.13,75
+9/30/24,"Hartford, CT","Indianapolis, IN",1877,Insulation Board,613.53,2596.41,150.16,100,2346.25,2146.46,0
+6/4/23,"Tampa, FL","Portland, OR",2469,Metal Roofing Coil,2009.94,3358.77,197.52,0,3086.25,2807.34,75
+5/4/24,"Providence, RI","Denver, CO",1821,Roofing Membrane Roll,650.9,2471.93,145.68,0,2276.25,2498.88,50
+1/21/24,"Buffalo, NY","San Diego, CA",1285,Drainage Mat,231.59,1784.05,102.8,0,1606.25,1537.27,75
+4/14/23,"Baltimore, MD","Salt Lake City, UT",693,Metal Roofing Coil,2207.96,971.69,55.44,50,866.25,878.96,0
+1/28/24,"Norfolk, VA","Omaha, NE",1499,Roofing Membrane Roll,325.46,1993.67,119.92,0,1873.75,1910.84,0
+9/3/23,"Buffalo, NY","Los Angeles, CA",2128,Metal Roofing Coil,2316.3,3005.24,170.24,100,2660,2835.18,75
+6/25/23,"Raleigh, NC","Seattle, WA",1231,Insulation Board,882.33,1712.23,98.48,0,1538.75,1598.59,75
+2/8/23,"Columbia, SC","Las Vegas, NV",2421,Fasteners and Plates,97.54,3369.93,193.68,100,3026.25,2806.86,50
+4/21/24,"Charlotte, NC","San Diego, CA",605,Underlayment Roll,367.76,879.65,48.4,0,756.25,776.11,75
+11/12/24,"Jacksonville, FL","Milwaukee, WI",378,Drainage Mat,515.52,677.74,30.24,100,472.5,473.67,75
+6/21/24,"Atlanta, GA","Houston, TX",2323,Roofing Membrane Roll,393.67,3164.59,185.84,0,2903.75,3177.15,75
+2/12/24,"Baltimore, MD","Des Moines, IA",1385,Fasteners and Plates,192.58,1942.05,110.8,100,1731.25,1815.59,0
+6/8/24,"Providence, RI","San Diego, CA",2461,Fasteners and Plates,90.34,3273.13,196.88,0,3076.25,2770.42,0
+5/20/24,"Albany, NY","Dallas, TX",929,Roofing Membrane Roll,489,1410.57,74.32,100,1161.25,1077.65,75
+2/5/23,"Orlando, FL","Minneapolis, MN",640,Fasteners and Plates,120.45,901.2,51.2,0,800,795.68,50
+11/15/24,"Pittsburgh, PA","Los Angeles, CA",1514,Fasteners and Plates,79.41,2013.62,121.12,0,1892.5,1882.77,0
+1/20/23,"Buffalo, NY","Portland, OR",1197,Roofing Membrane Roll,506.63,1617.01,95.76,0,1496.25,1348.92,25
+11/17/23,"Baltimore, MD","Omaha, NE",603,Insulation Board,833.33,801.99,48.24,0,753.75,729.46,0
+5/26/24,"Albany, NY","Detroit, MI",903,Drainage Mat,375.42,1275.99,72.24,50,1128.75,1105.45,25
+2/4/24,"Jacksonville, FL","Minneapolis, MN",2000,Fasteners and Plates,189.76,2660,160,0,2500,2392.28,0
+10/15/24,"Buffalo, NY","Phoenix, AZ",382,Fasteners and Plates,67.08,583.06,30.56,0,477.5,432.58,75
+4/15/24,"Tampa, FL","Chicago, IL",1106,Roofing Membrane Roll,580.9,1470.98,88.48,0,1382.5,1501.24,0
+5/23/23,"Savannah, GA","Milwaukee, WI",218,Insulation Board,657.83,364.94,17.44,0,272.5,284.16,75
+4/2/23,"Albany, NY","Detroit, MI",2152,Drainage Mat,469.84,2937.16,172.16,0,2690,2807.51,75
+12/20/23,"Buffalo, NY","Los Angeles, CA",719,Drainage Mat,528.48,1006.27,57.52,0,898.75,923.27,50
+12/27/24,"Savannah, GA","Minneapolis, MN",926,Metal Roofing Coil,2302.3,1256.58,74.08,0,1157.5,1181.53,25
+2/20/23,"Albany, NY","Seattle, WA",1547,Underlayment Roll,177.01,2182.51,123.76,50,1933.75,2049.91,75
+10/26/24,"Tampa, FL","Detroit, MI",1974,Roofing Membrane Roll,447.62,2650.42,157.92,0,2467.5,2255.79,25
+11/28/24,"Providence, RI","Las Vegas, NV",2288,Roofing Membrane Roll,428.43,3143.04,183.04,100,2860,2810.05,0
+7/28/24,"Boston, MA","Des Moines, IA",2042,Insulation Board,771.47,2840.86,163.36,100,2552.5,2602.88,25
+7/9/23,"Charlotte, NC","Chicago, IL",1763,Drainage Mat,454.44,2494.79,141.04,100,2203.75,2302.47,50
+5/5/23,"Philadelphia, PA","Detroit, MI",1828,Fasteners and Plates,161.15,2506.24,146.24,50,2285,2435.36,25
+5/30/23,"Philadelphia, PA","Milwaukee, WI",1304,Insulation Board,556.85,1784.32,104.32,0,1630,1604.58,50
+11/10/23,"Charlotte, NC","Denver, CO",2198,Insulation Board,679.54,2998.34,175.84,50,2747.5,2972.87,25
+7/23/24,"Raleigh, NC","Salt Lake City, UT",422,Roofing Membrane Roll,523.46,561.26,33.76,0,527.5,551.68,0
+12/8/23,"Boston, MA","Dallas, TX",1661,Underlayment Roll,120.22,2359.13,132.88,100,2076.25,2047.15,50
+11/1/23,"Columbia, SC","San Antonio, TX",2320,Underlayment Roll,123.28,3110.6,185.6,0,2900,3109.81,25
+11/22/24,"Pittsburgh, PA","Houston, TX",2089,Insulation Board,678.57,2953.37,167.12,100,2611.25,2585.2,75
+11/12/24,"Tampa, FL","Detroit, MI",2270,Drainage Mat,566.65,3144.1,181.6,100,2837.5,2884.15,25
+2/23/23,"Raleigh, NC","Chicago, IL",1341,Fasteners and Plates,105.51,1808.53,107.28,0,1676.25,1684.9,25
+3/19/24,"Baltimore, MD","Dallas, TX",206,Roofing Membrane Roll,366.74,273.98,16.48,0,257.5,277.59,0
+9/4/24,"Savannah, GA","Portland, OR",2010,Insulation Board,878.66,2698.3,160.8,0,2512.5,2521.16,25
+9/21/23,"Baltimore, MD","Indianapolis, IN",1650,Metal Roofing Coil,2245.83,2319.5,132,100,2062.5,1885.83,25
+2/22/23,"Pittsburgh, PA","Portland, OR",2029,Metal Roofing Coil,2217.19,2773.57,162.32,0,2536.25,2552.02,75
+7/25/24,"Orlando, FL","Las Vegas, NV",1032,Drainage Mat,287.16,1472.56,82.56,100,1290,1338.57,0
+9/11/24,"Pittsburgh, PA","Milwaukee, WI",1599,Fasteners and Plates,195.8,2226.67,127.92,100,1998.75,2011.51,0
+1/5/23,"Columbia, SC","Chicago, IL",1378,Drainage Mat,353.68,1957.74,110.24,50,1722.5,1560.91,75
+4/13/23,"Richmond, VA","St. Louis, MO",2041,Metal Roofing Coil,2089.91,2814.53,163.28,50,2551.25,2681.98,50
+7/15/23,"Providence, RI","Portland, OR",2369,Insulation Board,695.14,3225.77,189.52,0,2961.25,2884.49,75
+12/16/23,"Providence, RI","San Diego, CA",1931,Drainage Mat,325.59,2618.23,154.48,50,2413.75,2571.47,0
+2/16/23,"Baltimore, MD","Omaha, NE",258,Drainage Mat,235.28,443.14,20.64,100,322.5,300.03,0
+10/17/24,"Buffalo, NY","Salt Lake City, UT",1501,Metal Roofing Coil,2069.86,1996.33,120.08,0,1876.25,1746.47,0
+9/26/23,"Charlotte, NC","Seattle, WA",564,Metal Roofing Coil,2172.58,850.12,45.12,50,705,669.31,50
+1/5/24,"Buffalo, NY","St. Louis, MO",1777,Metal Roofing Coil,2108.31,2463.41,142.16,50,2221.25,2114.33,50
+9/27/24,"Norfolk, VA","San Diego, CA",540,Underlayment Roll,153.15,768.2,43.2,50,675,698.95,0
+4/16/23,"Charlotte, NC","Indianapolis, IN",558,Fasteners and Plates,194.96,892.14,44.64,100,697.5,650.8,50
+10/31/24,"Columbia, SC","Portland, OR",1108,Fasteners and Plates,70.88,1648.64,88.64,100,1385,1472.74,75
+10/20/24,"Albany, NY","Dallas, TX",2351,Fasteners and Plates,110.27,3201.83,188.08,50,2938.75,2979.53,25
+10/18/24,"Norfolk, VA","St. Louis, MO",1198,Underlayment Roll,238.43,1593.34,95.84,0,1497.5,1392.07,0
+4/30/23,"Jacksonville, FL","Minneapolis, MN",2411,Metal Roofing Coil,2132.88,3331.63,192.88,50,3013.75,2849.65,75
+8/26/24,"Columbia, SC","Phoenix, AZ",2089,Fasteners and Plates,138.95,2928.37,167.12,100,2611.25,2534.72,50
+2/27/23,"Orlando, FL","San Diego, CA",1710,Insulation Board,847.99,2349.3,136.8,0,2137.5,2263.28,75
+12/12/23,"Norfolk, VA","Las Vegas, NV",1217,Underlayment Roll,240.03,1718.61,97.36,50,1521.25,1414.4,50
+4/18/24,"Columbia, SC","Seattle, WA",1971,Fasteners and Plates,126.94,2696.43,157.68,50,2463.75,2507.47,25
+4/27/23,"Pittsburgh, PA","Phoenix, AZ",1810,Metal Roofing Coil,2143.99,2457.3,144.8,0,2262.5,2290.88,50
+5/7/23,"Orlando, FL","Denver, CO",914,Drainage Mat,354.62,1215.62,73.12,0,1142.5,1111.03,0
+1/28/24,"Boston, MA","Des Moines, IA",281,Metal Roofing Coil,2405.9,523.73,22.48,100,351.25,358.42,50
+10/2/24,"Philadelphia, PA","Kansas City, MO",564,Roofing Membrane Roll,529.41,850.12,45.12,100,705,662.77,0
+2/27/23,"Charlotte, NC","Milwaukee, WI",1080,Roofing Membrane Roll,323.79,1486.4,86.4,0,1350,1456.13,50
+9/25/24,"Baltimore, MD","Portland, OR",1546,Roofing Membrane Roll,424.76,2206.18,123.68,100,1932.5,1751.15,50
+5/27/24,"Albany, NY","Phoenix, AZ",1337,Roofing Membrane Roll,550.64,1878.21,106.96,50,1671.25,1734,50
+4/6/23,"Raleigh, NC","Dallas, TX",2033,Underlayment Roll,361.61,2828.89,162.64,50,2541.25,2614.68,75
+9/29/24,"Newark, NJ","Minneapolis, MN",895,Roofing Membrane Roll,621.77,1290.35,71.6,50,1118.75,1221.1,50
+4/28/23,"Charlotte, NC","Portland, OR",312,Insulation Board,896.22,564.96,24.96,100,390,351.18,50
+7/13/24,"Atlanta, GA","Chicago, IL",224,Drainage Mat,495.15,297.92,17.92,0,280,293.47,0
+8/23/24,"Newark, NJ","Dallas, TX",847,Metal Roofing Coil,1803.97,1126.51,67.76,0,1058.75,1126.92,0
+5/2/24,"Columbia, SC","San Diego, CA",746,Underlayment Roll,329.83,1092.18,59.68,50,932.5,858.72,50
+8/25/23,"Raleigh, NC","Los Angeles, CA",1141,Roofing Membrane Roll,495.05,1592.53,91.28,50,1426.25,1399.88,25
+9/29/23,"Pittsburgh, PA","Seattle, WA",1298,Roofing Membrane Roll,309.8,1851.34,103.84,100,1622.5,1638.44,25
+7/8/23,"Jacksonville, FL","San Antonio, TX",2215,Metal Roofing Coil,2365.76,3045.95,177.2,50,2768.75,2495.25,50
+12/4/24,"Baltimore, MD","St. Louis, MO",1751,Fasteners and Plates,128.39,2428.83,140.08,50,2188.75,2003.52,50
+3/22/24,"Columbia, SC","San Antonio, TX",649,Underlayment Roll,352.62,963.17,51.92,50,811.25,795.49,50
+8/3/24,"Norfolk, VA","Omaha, NE",1513,Underlayment Roll,163.33,2162.29,121.04,100,1891.25,1853.92,50
+9/4/23,"Richmond, VA","Des Moines, IA",1790,Metal Roofing Coil,2450.46,2530.7,143.2,100,2237.5,2023.61,50
+3/17/23,"Wilmington, DE","Detroit, MI",1893,Fasteners and Plates,121.47,2567.69,151.44,0,2366.25,2145.56,50
+6/3/23,"Newark, NJ","Seattle, WA",1504,Fasteners and Plates,103.67,2100.32,120.32,50,1880,1762.63,50
+10/17/24,"Savannah, GA","Salt Lake City, UT",1669,Drainage Mat,401.23,2344.77,133.52,50,2086.25,2122.08,75
+3/10/24,"Norfolk, VA","St. Louis, MO",859,Drainage Mat,421.86,1267.47,68.72,50,1073.75,1018.33,75
+3/27/23,"Orlando, FL","Denver, CO",252,Metal Roofing Coil,1964.26,485.16,20.16,100,315,318.31,50
+11/27/24,"Raleigh, NC","Des Moines, IA",1694,Roofing Membrane Roll,347.98,2353.02,135.52,50,2117.5,2075.76,50
+10/12/23,"Baltimore, MD","Dallas, TX",1049,Insulation Board,613.71,1445.17,83.92,50,1311.25,1369.4,0
+8/8/23,"Providence, RI","Milwaukee, WI",1664,Underlayment Roll,324.59,2313.12,133.12,100,2080,1950.64,0
+3/10/23,"Raleigh, NC","Indianapolis, IN",2456,Underlayment Roll,114.06,3441.48,196.48,100,3070,3121.13,75
+2/16/23,"Wilmington, DE","Detroit, MI",1088,Fasteners and Plates,50.57,1447.04,87.04,0,1360,1477.2,0
+4/4/23,"Wilmington, DE","Des Moines, IA",336,Fasteners and Plates,104.04,621.88,26.88,100,420,450.79,75
+3/28/24,"Norfolk, VA","Chicago, IL",1018,Drainage Mat,515.57,1378.94,81.44,0,1272.5,1252.75,25
+7/23/23,"Hartford, CT","Phoenix, AZ",2195,Fasteners and Plates,106.6,3044.35,175.6,100,2743.75,2518.37,25
+8/6/23,"Orlando, FL","San Diego, CA",2148,Fasteners and Plates,56.34,2856.84,171.84,0,2685,2916,0
+4/18/24,"Raleigh, NC","Omaha, NE",1105,Fasteners and Plates,155.58,1569.65,88.4,100,1381.25,1289.25,0
+3/7/24,"Jacksonville, FL","Chicago, IL",1324,Insulation Board,850.2,1810.92,105.92,0,1655,1581.66,50
+12/7/23,"Jacksonville, FL","Kansas City, MO",630,Drainage Mat,580.31,837.9,50.4,0,787.5,755.69,0
+7/4/24,"Pittsburgh, PA","Las Vegas, NV",1946,Roofing Membrane Roll,490.16,2588.18,155.68,0,2432.5,2212.69,0
+9/3/24,"Tampa, FL","Denver, CO",1223,Metal Roofing Coil,2149,1701.59,97.84,0,1528.75,1521.4,75
+10/16/23,"Baltimore, MD","Denver, CO",2197,Fasteners and Plates,81.33,3097.01,175.76,100,2746.25,2674.74,75
+9/11/23,"Norfolk, VA","Las Vegas, NV",1236,Roofing Membrane Roll,643.58,1768.88,98.88,50,1545,1561.09,75
+12/23/23,"Hartford, CT","Seattle, WA",848,Underlayment Roll,355.1,1152.84,67.84,0,1060,1138.39,25
+1/23/23,"Hartford, CT","Portland, OR",2216,Insulation Board,852.06,2947.28,177.28,0,2770,2910.73,0
+6/5/24,"Norfolk, VA","Salt Lake City, UT",1951,Insulation Board,618.12,2744.83,156.08,100,2438.75,2256.2,50
+4/10/23,"Jacksonville, FL","Seattle, WA",1139,Insulation Board,626.25,1539.87,91.12,0,1423.75,1475.63,25
+6/29/23,"Providence, RI","Detroit, MI",555,Insulation Board,579.69,788.15,44.4,0,693.75,664.25,50
+8/11/23,"Norfolk, VA","Milwaukee, WI",2296,Underlayment Roll,300.06,3103.68,183.68,50,2870,3031.88,0
+10/20/24,"Boston, MA","Dallas, TX",2300,Drainage Mat,307.04,3109,184,50,2875,2595.95,0
+3/17/24,"Tampa, FL","San Diego, CA",2205,Metal Roofing Coil,2437.75,2957.65,176.4,0,2756.25,2549.18,25
+8/30/24,"Columbia, SC","Portland, OR",586,Insulation Board,512.57,954.38,46.88,100,732.5,707.63,75
+11/21/23,"Norfolk, VA","Minneapolis, MN",740,Underlayment Roll,278.54,1109.2,59.2,100,925,994.86,25
+5/30/24,"Richmond, VA","Salt Lake City, UT",2477,Underlayment Roll,255.71,3369.41,198.16,0,3096.25,2979.75,75
+1/16/23,"Providence, RI","Des Moines, IA",2351,Drainage Mat,306.9,3201.83,188.08,50,2938.75,3148.65,25
+12/2/23,"Hartford, CT","Los Angeles, CA",1922,Underlayment Roll,105.08,2681.26,153.76,100,2402.5,2550.09,25
+9/15/23,"Pittsburgh, PA","Los Angeles, CA",1959,Roofing Membrane Roll,372.7,2655.47,156.72,0,2448.75,2371.27,50
+5/11/24,"Pittsburgh, PA","Detroit, MI",2259,Insulation Board,707.18,3104.47,180.72,100,2823.75,2915.81,0
+6/9/23,"Columbia, SC","Los Angeles, CA",506,Roofing Membrane Roll,689.68,747.98,40.48,0,632.5,638.44,75
+4/19/24,"Charlotte, NC","Milwaukee, WI",1679,Drainage Mat,513.28,2308.07,134.32,0,2098.75,2055.94,75
+10/25/24,"Savannah, GA","Denver, CO",688,Roofing Membrane Roll,659.78,990.04,55.04,0,860,816.42,75
+11/20/24,"Newark, NJ","Denver, CO",1347,Drainage Mat,389.36,1966.51,107.76,100,1683.75,1741.55,75
+11/5/24,"Wilmington, DE","Phoenix, AZ",592,Fasteners and Plates,193.67,962.36,47.36,100,740,782.21,75
+1/15/24,"Jacksonville, FL","Omaha, NE",477,Insulation Board,760.38,659.41,38.16,0,596.25,561.07,25
+6/28/24,"Atlanta, GA","Las Vegas, NV",225,Insulation Board,578.33,299.25,18,0,281.25,297.07,0
+11/21/24,"Raleigh, NC","Milwaukee, WI",660,Underlayment Roll,182.87,952.8,52.8,0,825,829.5,75
+3/2/24,"Baltimore, MD","Seattle, WA",2194,Roofing Membrane Roll,455.27,3068.02,175.52,100,2742.5,2912.46,50
+9/4/24,"Atlanta, GA","Des Moines, IA",415,Metal Roofing Coil,2442.24,651.95,33.2,50,518.75,515.64,50
+9/25/23,"Baltimore, MD","Minneapolis, MN",885,Fasteners and Plates,59.09,1252.05,70.8,50,1106.25,1148.31,25
+7/30/24,"Jacksonville, FL","St. Louis, MO",2043,Underlayment Roll,102.35,2742.19,163.44,0,2553.75,2527.02,25
+2/21/24,"Orlando, FL","Salt Lake City, UT",2146,Insulation Board,666.26,2904.18,171.68,50,2682.5,2544.03,0
+6/17/23,"Boston, MA","San Antonio, TX",1781,Metal Roofing Coil,2464.35,2393.73,142.48,0,2226.25,2280.08,25
+2/12/23,"Columbia, SC","Salt Lake City, UT",2457,Metal Roofing Coil,2364.88,3317.81,196.56,50,3071.25,3099.86,0
+7/9/24,"Buffalo, NY","Milwaukee, WI",2250,Fasteners and Plates,118.79,3117.5,180,50,2812.5,3017.23,75
+10/12/23,"Wilmington, DE","Detroit, MI",819,Metal Roofing Coil,1946.43,1139.27,65.52,0,1023.75,949.43,50
+2/1/24,"Richmond, VA","Indianapolis, IN",1746,Underlayment Roll,337.94,2447.18,139.68,100,2182.5,2069.87,25
+1/12/23,"Philadelphia, PA","Los Angeles, CA",779,Roofing Membrane Roll,343.56,1211.07,62.32,100,973.75,973.41,75
+8/29/24,"Buffalo, NY","Phoenix, AZ",1555,Roofing Membrane Roll,584.69,2193.15,124.4,100,1943.75,1927.8,25
+10/29/23,"Pittsburgh, PA","Detroit, MI",1069,Insulation Board,737.42,1496.77,85.52,50,1336.25,1206.11,25
+9/10/23,"Norfolk, VA","Los Angeles, CA",1082,Fasteners and Plates,78.52,1464.06,86.56,0,1352.5,1462.84,25
+5/13/24,"Jacksonville, FL","Houston, TX",2034,Roofing Membrane Roll,579.32,2730.22,162.72,0,2542.5,2772.8,25
+2/4/23,"Savannah, GA","Portland, OR",207,Drainage Mat,502.92,375.31,16.56,50,258.75,270.05,50
+12/27/24,"Richmond, VA","San Antonio, TX",1262,Underlayment Roll,169.61,1753.46,100.96,0,1577.5,1471.08,75
+3/31/23,"Columbia, SC","Denver, CO",2340,Fasteners and Plates,164.54,3162.2,187.2,50,2925,2985.29,0
+8/27/24,"Philadelphia, PA","Salt Lake City, UT",1836,Metal Roofing Coil,1806.33,2491.88,146.88,50,2295,2434.88,0
+8/24/24,"Orlando, FL","Denver, CO",1987,Insulation Board,588.83,2767.71,158.96,50,2483.75,2491.04,75
+2/22/24,"Albany, NY","Salt Lake City, UT",548,Underlayment Roll,128.62,828.84,43.84,100,685,739.07,0
+4/25/23,"Savannah, GA","Salt Lake City, UT",1661,Insulation Board,547.4,2359.13,132.88,100,2076.25,2250.46,50
+9/8/24,"Norfolk, VA","Indianapolis, IN",800,Metal Roofing Coil,2146.27,1114,64,0,1000,996.31,50
+7/15/23,"Raleigh, NC","Houston, TX",828,Underlayment Roll,217.74,1151.24,66.24,50,1035,1121.61,0
+5/15/24,"Orlando, FL","Las Vegas, NV",473,Metal Roofing Coil,2111.06,704.09,37.84,0,591.25,561.81,75
+9/17/24,"Jacksonville, FL","Chicago, IL",1305,Roofing Membrane Roll,529.54,1760.65,104.4,0,1631.25,1546.56,25
+5/7/24,"Jacksonville, FL","Milwaukee, WI",1627,Fasteners and Plates,181.6,2313.91,130.16,100,2033.75,2036.17,50
+3/16/23,"Wilmington, DE","Denver, CO",2124,Fasteners and Plates,162.77,2899.92,169.92,50,2655,2897.31,25
+2/17/24,"Buffalo, NY","Kansas City, MO",1972,Roofing Membrane Roll,646.71,2622.76,157.76,0,2465,2687.08,0
+1/11/24,"Raleigh, NC","Houston, TX",1146,Metal Roofing Coil,2303.41,1549.18,91.68,0,1432.5,1437.28,25
+2/24/24,"Wilmington, DE","Chicago, IL",1332,Underlayment Roll,351.9,1921.56,106.56,100,1665,1796.23,50
+12/29/24,"Wilmington, DE","Phoenix, AZ",604,Insulation Board,838.34,878.32,48.32,50,755,797.34,25
+10/4/23,"Columbia, SC","Dallas, TX",420,Roofing Membrane Roll,655.55,633.6,33.6,0,525,503.55,75
+11/6/24,"Norfolk, VA","Dallas, TX",674,Insulation Board,842.01,946.42,53.92,50,842.5,916.77,0
+1/29/24,"Boston, MA","Houston, TX",1590,Underlayment Roll,238,2214.7,127.2,100,1987.5,2120.99,0
+4/1/24,"Charlotte, NC","Denver, CO",2212,Roofing Membrane Roll,590.7,3016.96,176.96,50,2765,2944.61,25
+7/11/23,"Tampa, FL","Omaha, NE",478,Underlayment Roll,362.76,660.74,38.24,0,597.5,542.24,25
+11/19/24,"Albany, NY","Omaha, NE",880,Drainage Mat,418.68,1245.4,70.4,0,1100,1119.89,75
+4/9/23,"Albany, NY","Des Moines, IA",1580,Insulation Board,709,2151.4,126.4,0,1975,2161.87,50
+7/1/24,"Raleigh, NC","Dallas, TX",411,Fasteners and Plates,80.54,671.63,32.88,100,513.75,553.08,25
+4/6/23,"Baltimore, MD","St. Louis, MO",1043,Fasteners and Plates,159.4,1512.19,83.44,50,1303.75,1364.17,75
+10/25/24,"Buffalo, NY","Minneapolis, MN",2188,Underlayment Roll,322.57,2935.04,175.04,0,2735,2692.68,25
+10/24/24,"Philadelphia, PA","Las Vegas, NV",1068,Underlayment Roll,368.81,1470.44,85.44,0,1335,1269,50
+7/9/23,"Baltimore, MD","Detroit, MI",695,Fasteners and Plates,77.24,1099.35,55.6,100,868.75,955.55,75
+2/6/23,"Orlando, FL","Seattle, WA",1245,Metal Roofing Coil,2489.4,1730.85,99.6,0,1556.25,1569.47,75
+1/4/24,"Columbia, SC","Detroit, MI",2022,Metal Roofing Coil,2262.71,2789.26,161.76,50,2527.5,2633.31,50
+11/25/24,"Baltimore, MD","Des Moines, IA",453,Underlayment Roll,180.71,677.49,36.24,0,566.25,540.07,75
+6/8/24,"Wilmington, DE","Indianapolis, IN",1783,Fasteners and Plates,56.36,2471.39,142.64,100,2228.75,2324.33,0
+10/6/23,"Albany, NY","Portland, OR",2056,Drainage Mat,424.04,2909.48,164.48,100,2570,2574.57,75
+8/5/23,"Philadelphia, PA","Omaha, NE",1094,Underlayment Roll,391.73,1580.02,87.52,50,1367.5,1421.44,75
+9/30/23,"Boston, MA","Kansas City, MO",1206,Underlayment Roll,129.47,1703.98,96.48,100,1507.5,1394.48,0
+3/3/23,"Tampa, FL","San Antonio, TX",962,Roofing Membrane Roll,644.68,1279.46,76.96,0,1202.5,1129.21,0
+8/18/24,"Philadelphia, PA","Omaha, NE",1563,Metal Roofing Coil,1949.38,2128.79,125.04,0,1953.75,2093.07,50
+12/29/24,"Raleigh, NC","Denver, CO",2103,Underlayment Roll,329.42,2971.99,168.24,100,2628.75,2594.75,75
+12/8/23,"Atlanta, GA","Seattle, WA",1697,Roofing Membrane Roll,498.5,2432.01,135.76,100,2121.25,2124.08,75
+2/1/24,"Orlando, FL","Omaha, NE",2137,Underlayment Roll,320.33,2917.21,170.96,0,2671.25,2417.58,75
+11/29/24,"Wilmington, DE","Des Moines, IA",277,Roofing Membrane Roll,349.75,443.41,22.16,50,346.25,354.28,25
+1/19/23,"Columbia, SC","Las Vegas, NV",2123,Insulation Board,675.06,2948.59,169.84,100,2653.75,2654.33,25
+6/26/23,"Savannah, GA","Salt Lake City, UT",1391,Insulation Board,718.57,1950.03,111.28,100,1738.75,1714.27,0
+9/3/24,"Providence, RI","Seattle, WA",589,Drainage Mat,487.38,808.37,47.12,0,736.25,804.21,25
+1/31/24,"Raleigh, NC","Denver, CO",1090,Insulation Board,721.08,1624.7,87.2,100,1362.5,1462.04,75
+3/20/24,"Norfolk, VA","Portland, OR",1737,Drainage Mat,470.86,2360.21,138.96,50,2171.25,2246.25,0
+8/21/23,"Savannah, GA","Detroit, MI",574,Insulation Board,528.36,913.42,45.92,100,717.5,767.82,50
+3/17/23,"Providence, RI","Dallas, TX",1433,Insulation Board,862.43,1930.89,114.64,0,1791.25,1808.75,25
+9/22/23,"Baltimore, MD","Milwaukee, WI",2124,Drainage Mat,356.27,2949.92,169.92,100,2655,2608.09,25
+3/30/24,"Charlotte, NC","Las Vegas, NV",2147,Insulation Board,633.62,2980.51,171.76,50,2683.75,2740.38,75
+12/18/24,"Savannah, GA","Dallas, TX",1541,Underlayment Roll,335.13,2149.53,123.28,50,1926.25,1900.35,50
+1/19/24,"Baltimore, MD","Detroit, MI",1673,Underlayment Roll,303.26,2350.09,133.84,50,2091.25,2038.52,75
+7/17/24,"Savannah, GA","Kansas City, MO",1307,Roofing Membrane Roll,692.82,1838.31,104.56,50,1633.75,1710.04,50
+5/20/24,"Wilmington, DE","Denver, CO",327,Drainage Mat,279.6,559.91,26.16,50,408.75,417.02,75
+1/2/24,"Jacksonville, FL","San Antonio, TX",560,Insulation Board,611.14,769.8,44.8,0,700,631.61,25
+5/24/23,"Newark, NJ","Las Vegas, NV",2264,Insulation Board,707.48,3061.12,181.12,50,2830,3096.4,0
+3/10/23,"Atlanta, GA","Phoenix, AZ",880,Insulation Board,891.58,1245.4,70.4,0,1100,1031.76,75
+4/9/23,"Tampa, FL","Phoenix, AZ",1912,Roofing Membrane Roll,469.09,2667.96,152.96,100,2390,2277.32,25
+1/31/24,"Charlotte, NC","Dallas, TX",2026,Metal Roofing Coil,2161.75,2769.58,162.08,50,2532.5,2424.85,25
+1/25/23,"Buffalo, NY","Chicago, IL",353,Underlayment Roll,306.93,619.49,28.24,100,441.25,449.67,50
+4/13/24,"Hartford, CT","San Antonio, TX",2477,Metal Roofing Coil,1852.91,3469.41,198.16,100,3096.25,3053.13,75
+4/28/24,"Raleigh, NC","Des Moines, IA",795,Roofing Membrane Roll,539.62,1182.35,63.6,100,993.75,1023.27,25
+7/18/24,"Providence, RI","Indianapolis, IN",1357,Roofing Membrane Roll,556.65,1904.81,108.56,100,1696.25,1717.85,0
+5/31/23,"Atlanta, GA","Houston, TX",759,Drainage Mat,482.65,1134.47,60.72,50,948.75,913.25,75
+5/24/23,"Providence, RI","Houston, TX",612,Drainage Mat,299.81,813.96,48.96,0,765,706.41,0
+7/22/24,"Orlando, FL","Seattle, WA",861,Fasteners and Plates,73.22,1295.13,68.88,100,1076.25,1158.69,50
+2/8/23,"Columbia, SC","San Diego, CA",809,Fasteners and Plates,165.85,1200.97,64.72,50,1011.25,1047.68,75
+4/19/23,"Providence, RI","Detroit, MI",500,Drainage Mat,450.99,840,40,100,625,594.14,75
+11/23/24,"Orlando, FL","San Diego, CA",2293,Underlayment Roll,381.9,3124.69,183.44,50,2866.25,3003.49,25
+2/11/23,"Richmond, VA","Detroit, MI",1041,Fasteners and Plates,196.55,1459.53,83.28,50,1301.25,1364.45,25
+7/5/23,"Boston, MA","Las Vegas, NV",1564,Drainage Mat,237.05,2230.12,125.12,100,1955,2075.11,50
+2/2/24,"Albany, NY","Omaha, NE",272,Fasteners and Plates,88.81,536.76,21.76,100,340,306.62,75
+8/11/23,"Buffalo, NY","Indianapolis, IN",242,Underlayment Roll,168.75,346.86,19.36,0,302.5,312.83,25
+9/25/24,"Wilmington, DE","Salt Lake City, UT",2286,Roofing Membrane Roll,585.62,3090.38,182.88,0,2857.5,3039.45,50
+5/13/23,"Boston, MA","Des Moines, IA",1270,Roofing Membrane Roll,595.49,1814.1,101.6,100,1587.5,1541.77,25
+6/12/23,"Pittsburgh, PA","Seattle, WA",1143,Drainage Mat,308.32,1570.19,91.44,50,1428.75,1303.74,0
+8/3/23,"Tampa, FL","Las Vegas, NV",1537,Underlayment Roll,227.43,2069.21,122.96,0,1921.25,1987.68,25
+8/23/23,"Norfolk, VA","San Antonio, TX",1726,Metal Roofing Coil,2060.54,2395.58,138.08,50,2157.5,2323.61,50
+10/19/24,"Buffalo, NY","Denver, CO",2193,Roofing Membrane Roll,629.19,3041.69,175.44,50,2741.25,2874.41,75
+8/10/24,"Pittsburgh, PA","Omaha, NE",1999,Underlayment Roll,396.3,2758.67,159.92,100,2498.75,2634.05,0
+1/9/23,"Charlotte, NC","Salt Lake City, UT",589,Metal Roofing Coil,2444.54,883.37,47.12,100,736.25,741.89,0
+3/15/23,"Richmond, VA","Omaha, NE",1917,Insulation Board,846.08,2624.61,153.36,0,2396.25,2476.03,75
+5/6/24,"Newark, NJ","Salt Lake City, UT",644,Metal Roofing Coil,2351.16,981.52,51.52,50,805,764.49,75
+9/10/23,"Savannah, GA","San Antonio, TX",879,Insulation Board,833.46,1219.07,70.32,50,1098.75,1131.56,0
+8/18/23,"Richmond, VA","Indianapolis, IN",262,Metal Roofing Coil,2348.79,423.46,20.96,50,327.5,346.17,25
+6/2/24,"Columbia, SC","San Diego, CA",455,Metal Roofing Coil,1815.34,730.15,36.4,100,568.75,518.27,25
+6/23/23,"Raleigh, NC","Chicago, IL",1022,Drainage Mat,211.32,1484.26,81.76,100,1277.5,1254.42,25
+10/14/24,"Raleigh, NC","Dallas, TX",1837,Roofing Membrane Roll,463.51,2493.21,146.96,50,2296.25,2118.01,0
+6/17/23,"Philadelphia, PA","Detroit, MI",2268,Fasteners and Plates,60.57,3066.44,181.44,50,2835,3051.42,0
+6/19/23,"Charlotte, NC","St. Louis, MO",1002,Fasteners and Plates,173.97,1407.66,80.16,0,1252.5,1129.25,75
+1/28/24,"Providence, RI","Los Angeles, CA",945,Metal Roofing Coil,1974.97,1356.85,75.6,100,1181.25,1123.34,0
+9/25/24,"Newark, NJ","Minneapolis, MN",2299,Roofing Membrane Roll,441.52,3082.67,183.92,0,2873.75,3062.34,25
+7/13/23,"Charlotte, NC","Portland, OR",1771,Drainage Mat,565.52,2430.43,141.68,50,2213.75,2149.3,25
+5/31/24,"Providence, RI","San Antonio, TX",2344,Fasteners and Plates,90.72,3117.52,187.52,0,2930,2697.1,0
+1/29/23,"Norfolk, VA","Detroit, MI",2356,Roofing Membrane Roll,331.06,3233.48,188.48,100,2945,2856,0
+6/14/23,"Buffalo, NY","Chicago, IL",286,Metal Roofing Coil,2401.17,455.38,22.88,0,357.5,346.4,75
+2/26/24,"Richmond, VA","Salt Lake City, UT",1508,Drainage Mat,499.34,2105.64,120.64,100,1885,1950.46,0
+12/5/23,"Providence, RI","Omaha, NE",694,Metal Roofing Coil,2305.35,1073.02,55.52,100,867.5,855.29,50
+10/9/24,"Norfolk, VA","St. Louis, MO",649,Underlayment Roll,100.6,888.17,51.92,0,811.25,848.96,25
+5/10/24,"Hartford, CT","Los Angeles, CA",957,Drainage Mat,318.71,1297.81,76.56,0,1196.25,1159.22,25
+12/31/23,"Wilmington, DE","Milwaukee, WI",698,Roofing Membrane Roll,366.3,1028.34,55.84,50,872.5,806.45,50
+12/8/23,"Charlotte, NC","Detroit, MI",873,Fasteners and Plates,65.8,1211.09,69.84,0,1091.25,1028.37,50
+5/14/24,"Newark, NJ","Des Moines, IA",2494,Insulation Board,598.14,3467.02,199.52,100,3117.5,3049.56,50
+10/18/24,"Richmond, VA","Milwaukee, WI",611,Fasteners and Plates,100.35,962.63,48.88,100,763.75,772.44,50
+5/25/24,"Atlanta, GA","Denver, CO",218,Underlayment Roll,326.16,439.94,17.44,100,272.5,283.21,50
+11/23/23,"Columbia, SC","Denver, CO",2148,Underlayment Roll,326.08,2906.84,171.84,50,2685,2592.4,0
+8/5/23,"Hartford, CT","San Antonio, TX",292,Underlayment Roll,361.16,488.36,23.36,100,365,336.92,0
+10/28/23,"Hartford, CT","Los Angeles, CA",494,Fasteners and Plates,124.36,707.02,39.52,50,617.5,619.02,0
+5/12/23,"Tampa, FL","Seattle, WA",504,Drainage Mat,356.74,770.32,40.32,100,630,592.74,0
+3/11/23,"Savannah, GA","Las Vegas, NV",392,Insulation Board,880.58,571.36,31.36,0,490,500.91,50
+9/9/23,"Newark, NJ","Las Vegas, NV",1988,Metal Roofing Coil,1848.33,2744.04,159.04,100,2485,2515.16,0
+2/19/24,"Columbia, SC","San Diego, CA",1603,Drainage Mat,288.76,2131.99,128.24,0,2003.75,2096.45,0
+3/20/24,"Norfolk, VA","Milwaukee, WI",704,Drainage Mat,414.26,1036.32,56.32,50,880,940.43,50
+7/1/23,"Raleigh, NC","Dallas, TX",1422,Metal Roofing Coil,1889.17,1991.26,113.76,50,1777.5,1781.25,50
+6/16/23,"Columbia, SC","Portland, OR",628,Insulation Board,841.99,935.24,50.24,100,785,779.71,0
+4/1/23,"Atlanta, GA","Omaha, NE",2304,Drainage Mat,363.9,3189.32,184.32,50,2880,3111.42,75
+12/14/24,"Tampa, FL","Houston, TX",2432,Roofing Membrane Roll,383.18,3334.56,194.56,100,3040,2776.47,0
+6/14/24,"Baltimore, MD","Omaha, NE",281,Metal Roofing Coil,2487.2,448.73,22.48,50,351.25,352.19,25
+2/8/23,"Buffalo, NY","Phoenix, AZ",2183,Metal Roofing Coil,2103.43,2903.39,174.64,0,2728.75,2760.98,0
+5/6/23,"Boston, MA","Seattle, WA",202,Insulation Board,678.55,393.66,16.16,50,252.5,264.08,75
+3/26/24,"Buffalo, NY","San Antonio, TX",843,Fasteners and Plates,60.31,1271.19,67.44,100,1053.75,1026.24,50
+6/22/23,"Hartford, CT","St. Louis, MO",2343,Insulation Board,762.69,3241.19,187.44,100,2928.75,2858.01,25
+10/14/24,"Philadelphia, PA","Phoenix, AZ",870,Insulation Board,764.67,1257.1,69.6,50,1087.5,1146.84,50
+8/8/23,"Columbia, SC","Seattle, WA",2155,Drainage Mat,219.46,2866.15,172.4,0,2693.75,2738.85,0
+9/29/24,"Raleigh, NC","Minneapolis, MN",2053,Metal Roofing Coil,2164.75,2905.49,164.24,100,2566.25,2657.34,75
+2/27/23,"Columbia, SC","Salt Lake City, UT",1434,Fasteners and Plates,71.05,1982.22,114.72,0,1792.5,1751.85,75
+10/21/24,"Orlando, FL","Indianapolis, IN",419,Insulation Board,577.99,607.27,33.52,50,523.75,549.94,0
+4/20/24,"Atlanta, GA","St. Louis, MO",1190,Drainage Mat,303.29,1707.7,95.2,100,1487.5,1467.62,25
+3/31/24,"Tampa, FL","Las Vegas, NV",1980,Underlayment Roll,366.74,2758.4,158.4,50,2475,2602.84,75
+12/27/23,"Pittsburgh, PA","Denver, CO",253,Drainage Mat,389.57,436.49,20.24,100,316.25,296.35,0
+1/1/23,"Jacksonville, FL","Denver, CO",1829,Fasteners and Plates,82.24,2557.57,146.32,50,2286.25,2472.73,75
+1/22/24,"Providence, RI","Houston, TX",1559,Underlayment Roll,323.73,2098.47,124.72,0,1948.75,1981.75,25
+12/14/23,"Buffalo, NY","Kansas City, MO",1057,Metal Roofing Coil,2067.96,1580.81,84.56,100,1321.25,1363.4,75
+7/9/23,"Baltimore, MD","Kansas City, MO",2309,Drainage Mat,372.43,3170.97,184.72,50,2886.25,2905.44,50
+5/19/24,"Buffalo, NY","Detroit, MI",2308,Fasteners and Plates,190.86,3144.64,184.64,0,2885,2901.57,75
+7/10/23,"Providence, RI","Salt Lake City, UT",1122,Roofing Membrane Roll,376.37,1642.26,89.76,100,1402.5,1336.48,50
+5/22/24,"Orlando, FL","Las Vegas, NV",1430,Fasteners and Plates,166.52,2076.9,114.4,100,1787.5,1960.28,75
+1/4/24,"Philadelphia, PA","Las Vegas, NV",403,Underlayment Roll,126.52,535.99,32.24,0,503.75,496.93,0
+2/13/24,"Jacksonville, FL","Minneapolis, MN",1293,Drainage Mat,385.6,1769.69,103.44,0,1616.25,1738.82,50
+4/27/23,"Philadelphia, PA","Denver, CO",2037,Drainage Mat,529.73,2759.21,162.96,50,2546.25,2690.76,0
+5/14/23,"Savannah, GA","Las Vegas, NV",1922,Underlayment Roll,369.38,2731.26,153.76,100,2402.5,2595.16,75
+2/27/23,"Atlanta, GA","Los Angeles, CA",2137,Roofing Membrane Roll,566.71,2892.21,170.96,50,2671.25,2803.75,0
+7/9/24,"Providence, RI","Omaha, NE",1773,Metal Roofing Coil,2203.69,2508.09,141.84,100,2216.25,2437.38,50
+11/15/24,"Charlotte, NC","Denver, CO",1314,Roofing Membrane Roll,673.43,1747.62,105.12,0,1642.5,1760.11,0
+11/2/24,"Columbia, SC","Las Vegas, NV",550,Fasteners and Plates,119.87,831.5,44,100,687.5,660.55,0
+6/22/23,"Albany, NY","Seattle, WA",1211,Underlayment Roll,139.02,1760.63,96.88,100,1513.75,1471.49,50
+5/29/23,"Charlotte, NC","Omaha, NE",2246,Insulation Board,662.4,3012.18,179.68,0,2807.5,2657.03,25
+3/21/23,"Columbia, SC","Omaha, NE",1119,Metal Roofing Coil,1812,1613.27,89.52,50,1398.75,1456.42,75
+8/1/23,"Albany, NY","Dallas, TX",2454,Underlayment Roll,111.68,3413.82,196.32,100,3067.5,2764.03,50
+7/22/23,"Columbia, SC","Indianapolis, IN",2385,Insulation Board,749.85,3272.05,190.8,100,2981.25,3029.52,0
+8/17/23,"Pittsburgh, PA","San Diego, CA",218,Metal Roofing Coil,2246.83,389.94,17.44,100,272.5,282.1,0
+11/6/24,"Newark, NJ","Houston, TX",1499,Fasteners and Plates,108.38,2143.67,119.92,100,1873.75,2011.81,50
+8/15/23,"Wilmington, DE","Indianapolis, IN",1538,Underlayment Roll,378.74,2120.54,123.04,0,1922.5,2113.07,75
+10/20/24,"Norfolk, VA","Minneapolis, MN",1981,Insulation Board,697.66,2659.73,158.48,0,2476.25,2457.02,25
+6/15/24,"Orlando, FL","Phoenix, AZ",1938,Underlayment Roll,277.95,2727.54,155.04,100,2422.5,2583.76,50
+3/16/24,"Buffalo, NY","St. Louis, MO",1945,Roofing Membrane Roll,571.01,2761.85,155.6,100,2431.25,2637.93,75
+2/6/24,"Norfolk, VA","Dallas, TX",1648,Metal Roofing Coil,2150.25,2291.84,131.84,100,2060,2141.22,0
+2/16/23,"Orlando, FL","Houston, TX",1117,Drainage Mat,227.92,1635.61,89.36,100,1396.25,1465.45,50
+8/21/23,"Orlando, FL","Denver, CO",1878,Drainage Mat,439.72,2597.74,150.24,50,2347.5,2326.45,50
+11/1/23,"Raleigh, NC","Las Vegas, NV",853,Drainage Mat,381.16,1259.49,68.24,50,1066.25,963.71,75
+6/9/24,"Baltimore, MD","Portland, OR",1266,Underlayment Roll,107.49,1808.78,101.28,100,1582.5,1689.53,25
+5/23/23,"Buffalo, NY","Detroit, MI",2413,Roofing Membrane Roll,574.28,3334.29,193.04,100,3016.25,3100.12,25
+2/19/24,"Atlanta, GA","Las Vegas, NV",2057,Underlayment Roll,220.57,2760.81,164.56,0,2571.25,2742.9,25
+5/27/24,"Richmond, VA","Chicago, IL",1810,Roofing Membrane Roll,668.52,2582.3,144.8,100,2262.5,2059.78,75
+1/8/24,"Charlotte, NC","San Diego, CA",1125,Fasteners and Plates,59.98,1571.25,90,0,1406.25,1436.3,75
+7/19/24,"Newark, NJ","Las Vegas, NV",1141,Underlayment Roll,173.89,1642.53,91.28,50,1426.25,1453.86,75
+9/16/23,"Albany, NY","Las Vegas, NV",1462,Fasteners and Plates,179.45,2119.46,116.96,100,1827.5,1914.28,75
+10/17/24,"Hartford, CT","Dallas, TX",1296,Underlayment Roll,365.37,1823.68,103.68,100,1620,1522.98,0
+4/15/24,"Baltimore, MD","Denver, CO",1974,Insulation Board,858.95,2800.42,157.92,100,2467.5,2701.11,75
+1/12/23,"Savannah, GA","St. Louis, MO",1084,Underlayment Roll,382.23,1566.72,86.72,50,1355,1254.17,75
+11/26/23,"Jacksonville, FL","Salt Lake City, UT",1854,Underlayment Roll,120.1,2490.82,148.32,0,2317.5,2395.97,25
+12/24/23,"Baltimore, MD","Dallas, TX",2138,Insulation Board,875.19,2918.54,171.04,50,2672.5,2611.35,25
+2/12/24,"Baltimore, MD","Omaha, NE",2025,Fasteners and Plates,112.43,2818.25,162,100,2531.25,2515.61,25
+10/29/24,"Wilmington, DE","Las Vegas, NV",763,Roofing Membrane Roll,676.95,1164.79,61.04,100,953.75,886.47,50
+1/8/24,"Hartford, CT","Milwaukee, WI",2240,Roofing Membrane Roll,694.12,3104.2,179.2,100,2800,2967.04,25
+1/8/23,"Charlotte, NC","Salt Lake City, UT",1316,Underlayment Roll,289.17,1825.28,105.28,50,1645,1487.25,25
+5/2/23,"Philadelphia, PA","Chicago, IL",836,Underlayment Roll,176.94,1111.88,66.88,0,1045,953.58,0
+12/14/23,"Charlotte, NC","Detroit, MI",1561,Roofing Membrane Roll,368.05,2176.13,124.88,50,1951.25,2093.56,50
+11/6/24,"Atlanta, GA","Kansas City, MO",230,Drainage Mat,308.55,430.9,18.4,100,287.5,299.38,25
+3/31/23,"Richmond, VA","Las Vegas, NV",2439,Underlayment Roll,341.14,3368.87,195.12,50,3048.75,3219.82,75
+10/9/24,"Buffalo, NY","Denver, CO",2163,Insulation Board,557.63,2926.79,173.04,50,2703.75,2906.75,0
+11/28/24,"Boston, MA","Portland, OR",1190,Insulation Board,683.83,1657.7,95.2,50,1487.5,1583.41,25
+11/12/23,"Charlotte, NC","Detroit, MI",425,Underlayment Roll,184.58,565.25,34,0,531.25,498.39,0
+6/27/23,"Hartford, CT","Denver, CO",1171,Underlayment Roll,272.29,1607.43,93.68,0,1463.75,1569.78,50
+6/23/24,"Atlanta, GA","Milwaukee, WI",1726,Underlayment Roll,113.49,2470.58,138.08,100,2157.5,2184.49,75
+2/10/23,"Charlotte, NC","Houston, TX",1305,Drainage Mat,555.81,1785.65,104.4,0,1631.25,1710.09,50
+12/4/24,"Providence, RI","Des Moines, IA",1434,Insulation Board,723.83,2082.22,114.72,100,1792.5,1655.2,75
+5/16/24,"Albany, NY","Seattle, WA",1662,Metal Roofing Coil,2084.76,2310.46,132.96,100,2077.5,2058.38,0
+5/25/23,"Baltimore, MD","Seattle, WA",2132,Drainage Mat,405.54,2835.56,170.56,0,2665,2905.62,0
+7/20/23,"Albany, NY","Minneapolis, MN",1812,Drainage Mat,404.06,2434.96,144.96,0,2265,2270.84,25
+12/24/24,"Boston, MA","Milwaukee, WI",2243,Fasteners and Plates,146.71,3083.19,179.44,100,2803.75,3046.17,0
+4/5/24,"Providence, RI","Los Angeles, CA",1645,Fasteners and Plates,149.25,2262.85,131.6,0,2056.25,1965.22,75
+7/11/24,"Hartford, CT","Detroit, MI",919,Drainage Mat,396.31,1297.27,73.52,50,1148.75,1172.61,25
+6/30/24,"Buffalo, NY","St. Louis, MO",271,Roofing Membrane Roll,687.97,435.43,21.68,50,338.75,314.56,25
+9/10/23,"Savannah, GA","Detroit, MI",586,Fasteners and Plates,87.92,929.38,46.88,100,732.5,708.69,50
+1/25/24,"Baltimore, MD","Seattle, WA",1478,Roofing Membrane Roll,638.05,1965.74,118.24,0,1847.5,1727.46,0
+8/16/24,"Orlando, FL","Salt Lake City, UT",965,Fasteners and Plates,53.79,1333.45,77.2,0,1206.25,1296.49,50
+9/13/23,"Orlando, FL","Phoenix, AZ",724,Insulation Board,735.57,987.92,57.92,0,905,972.09,25
+12/9/24,"Providence, RI","Dallas, TX",536,Insulation Board,521.41,762.88,42.88,50,670,638.56,0
+3/25/24,"Raleigh, NC","Las Vegas, NV",1551,Fasteners and Plates,102.68,2162.83,124.08,50,1938.75,2112.66,50
+1/10/23,"Charlotte, NC","Las Vegas, NV",1999,Underlayment Roll,187.44,2808.67,159.92,100,2498.75,2367.89,50
+8/30/23,"Hartford, CT","Chicago, IL",1720,Insulation Board,735.98,2337.6,137.6,0,2150,2237.07,50
+9/8/23,"Richmond, VA","Omaha, NE",921,Metal Roofing Coil,2141.09,1374.93,73.68,100,1151.25,1173.56,50
+1/5/23,"Pittsburgh, PA","Omaha, NE",697,Roofing Membrane Roll,674.07,952.01,55.76,0,871.25,907.52,25
+4/29/23,"Charlotte, NC","Chicago, IL",2204,Metal Roofing Coil,1919.5,3031.32,176.32,50,2755,2592.15,50
+1/9/24,"Buffalo, NY","Indianapolis, IN",1690,Underlayment Roll,293.98,2372.7,135.2,100,2112.5,2285.98,25
+3/6/23,"Jacksonville, FL","San Diego, CA",764,Roofing Membrane Roll,609.42,1141.12,61.12,100,955,979.13,25
+5/26/23,"Raleigh, NC","Milwaukee, WI",1917,Drainage Mat,420.46,2699.61,153.36,100,2396.25,2233.63,50
+8/12/23,"Raleigh, NC","Phoenix, AZ",1488,Roofing Membrane Roll,601.49,2079.04,119.04,100,1860,1847.23,0
+8/27/23,"Tampa, FL","San Antonio, TX",1152,Fasteners and Plates,66.74,1632.16,92.16,100,1440,1345.97,0
+6/26/23,"Tampa, FL","Detroit, MI",1082,Fasteners and Plates,141.62,1589.06,86.56,100,1352.5,1371.02,50
+10/9/23,"Newark, NJ","Denver, CO",932,Fasteners and Plates,165.92,1289.56,74.56,0,1165,1180.33,50
+3/4/23,"Wilmington, DE","Omaha, NE",541,Roofing Membrane Roll,670.94,769.53,43.28,50,676.25,651.64,0
+8/5/23,"Boston, MA","Milwaukee, WI",1021,Insulation Board,830.74,1407.93,81.68,0,1276.25,1220.81,50
+11/19/24,"Philadelphia, PA","Seattle, WA",1016,Insulation Board,638.03,1401.28,81.28,0,1270,1387.22,50
+4/5/24,"Tampa, FL","Des Moines, IA",1070,Drainage Mat,216.6,1573.1,85.6,100,1337.5,1367.32,50
+9/1/24,"Tampa, FL","Detroit, MI",1251,Underlayment Roll,157.69,1713.83,100.08,50,1563.75,1601.16,0
+4/15/23,"Newark, NJ","Chicago, IL",2424,Fasteners and Plates,182.73,3323.92,193.92,100,3030,2932.9,0
+4/9/23,"Charlotte, NC","Minneapolis, MN",1176,Drainage Mat,204.11,1639.08,94.08,0,1470,1424.98,75
+5/25/24,"Columbia, SC","Indianapolis, IN",1409,Insulation Board,896.04,2048.97,112.72,100,1761.25,1635.23,75
+1/20/24,"Philadelphia, PA","Indianapolis, IN",1096,Metal Roofing Coil,2109.96,1582.68,87.68,50,1370,1327.09,75
+2/9/24,"Albany, NY","Portland, OR",1167,Roofing Membrane Roll,516.4,1677.11,93.36,50,1458.75,1583.8,75
+6/1/24,"Columbia, SC","Portland, OR",566,Insulation Board,565.95,877.78,45.28,100,707.5,658.04,25
+4/20/24,"Baltimore, MD","Indianapolis, IN",1802,Underlayment Roll,234.63,2471.66,144.16,50,2252.5,2029.51,25
+12/9/24,"Orlando, FL","Portland, OR",1505,Insulation Board,764.77,2126.65,120.4,50,1881.25,1759.79,75
+10/6/24,"Providence, RI","Des Moines, IA",2177,Metal Roofing Coil,2372.19,3045.41,174.16,100,2721.25,2479.39,50
+3/12/24,"Charlotte, NC","Chicago, IL",304,Fasteners and Plates,119.36,454.32,24.32,0,380,360.96,50
+1/23/23,"Columbia, SC","Kansas City, MO",633,Underlayment Roll,220.72,1016.89,50.64,100,791.25,758.82,75
+7/18/24,"Columbia, SC","Dallas, TX",328,Roofing Membrane Roll,576.42,511.24,26.24,50,410,384.63,25
+11/7/24,"Providence, RI","San Antonio, TX",348,Fasteners and Plates,191.03,537.84,27.84,0,435,466.59,75
+12/14/24,"Wilmington, DE","Seattle, WA",2244,Metal Roofing Coil,1883.92,2984.52,179.52,0,2805,2590.09,0
+4/2/24,"Philadelphia, PA","Dallas, TX",449,Drainage Mat,397.13,672.17,35.92,50,561.25,572.04,25
+3/24/23,"Raleigh, NC","St. Louis, MO",1183,Underlayment Roll,289.67,1598.39,94.64,0,1478.75,1446.25,25
+5/25/23,"Orlando, FL","Dallas, TX",1526,Underlayment Roll,370.72,2154.58,122.08,100,1907.5,1968.03,25
+3/26/23,"Wilmington, DE","Dallas, TX",938,Insulation Board,542.34,1372.54,75.04,50,1172.5,1177.93,75
+3/19/23,"Providence, RI","Kansas City, MO",2385,Roofing Membrane Roll,659.35,3247.05,190.8,0,2981.25,3245.19,75
+4/1/24,"Savannah, GA","Des Moines, IA",772,Drainage Mat,530.62,1026.76,61.76,0,965,887.56,0
+1/1/23,"Buffalo, NY","Milwaukee, WI",2303,Insulation Board,685.59,3162.99,184.24,100,2878.75,3155.44,0
+2/20/23,"Wilmington, DE","San Antonio, TX",1794,Underlayment Roll,167.88,2511.02,143.52,50,2242.5,2349.63,75
+11/15/24,"Tampa, FL","Milwaukee, WI",2002,Insulation Board,746.78,2812.66,160.16,100,2502.5,2338.6,50
+12/17/24,"Tampa, FL","Los Angeles, CA",1159,Insulation Board,799.26,1616.47,92.72,0,1448.75,1375.22,75
+3/21/24,"Raleigh, NC","Chicago, IL",814,Fasteners and Plates,197.54,1257.62,65.12,100,1017.5,1074.9,75
+3/24/24,"Albany, NY","Detroit, MI",1470,Drainage Mat,339.01,2130.1,117.6,100,1837.5,1673.14,75
+5/2/24,"Newark, NJ","Des Moines, IA",477,Fasteners and Plates,128.54,634.41,38.16,0,596.25,609.84,0
+2/3/23,"Pittsburgh, PA","Milwaukee, WI",1649,Underlayment Roll,141.37,2218.17,131.92,0,2061.25,2162.33,25
+12/14/23,"Richmond, VA","Seattle, WA",2228,Underlayment Roll,243.21,3013.24,178.24,50,2785,2955.28,0
+4/5/23,"Tampa, FL","Houston, TX",1876,Underlayment Roll,267.19,2570.08,150.08,0,2345,2501.92,75
+3/13/23,"Providence, RI","Indianapolis, IN",362,Roofing Membrane Roll,492.85,606.46,28.96,50,452.5,423.78,75
+7/4/24,"Richmond, VA","Seattle, WA",468,Underlayment Roll,342.52,697.44,37.44,0,585,558.76,75
+6/3/23,"Norfolk, VA","Phoenix, AZ",205,Metal Roofing Coil,2452.79,272.65,16.4,0,256.25,278.48,0
+9/7/23,"Orlando, FL","Kansas City, MO",2153,Fasteners and Plates,113.11,2938.49,172.24,50,2691.25,2926.52,25
+11/4/24,"Charlotte, NC","Salt Lake City, UT",909,Drainage Mat,363.1,1333.97,72.72,100,1136.25,1171.79,25
+3/13/24,"Boston, MA","Salt Lake City, UT",1472,Underlayment Roll,199.63,2057.76,117.76,50,1840,1966.91,50
+4/28/23,"Providence, RI","St. Louis, MO",218,Drainage Mat,367.07,464.94,17.44,100,272.5,296.4,75
+11/2/23,"Philadelphia, PA","Dallas, TX",2138,Underlayment Roll,308,3018.54,171.04,100,2672.5,2620.76,75
+9/25/23,"Boston, MA","Portland, OR",2143,Insulation Board,518.71,2900.19,171.44,0,2678.75,2645.63,50
+2/23/23,"Tampa, FL","San Antonio, TX",1288,Fasteners and Plates,88.3,1813.04,103.04,100,1610,1563.28,0
+8/24/23,"Raleigh, NC","Houston, TX",1351,Fasteners and Plates,129.75,1896.83,108.08,50,1688.75,1613.8,50
+1/24/24,"Hartford, CT","Kansas City, MO",1007,Underlayment Roll,218.58,1514.31,80.56,100,1258.75,1140.21,75
+2/5/24,"Columbia, SC","Minneapolis, MN",628,Underlayment Roll,112.57,885.24,50.24,50,785,732.91,0
+9/15/24,"Tampa, FL","Phoenix, AZ",970,Roofing Membrane Roll,584.05,1390.1,77.6,50,1212.5,1168.29,50
+10/30/23,"Pittsburgh, PA","Portland, OR",2448,Insulation Board,792.59,3430.84,195.84,100,3060,2888.91,75
+7/26/23,"Richmond, VA","Detroit, MI",1075,Insulation Board,520.09,1529.75,86,100,1343.75,1311.4,0
+8/17/23,"Boston, MA","St. Louis, MO",1681,Insulation Board,751.93,2285.73,134.48,50,2101.25,2114.4,0
+7/31/24,"Tampa, FL","Las Vegas, NV",622,Underlayment Roll,334.29,877.26,49.76,50,777.5,827.96,0
+3/16/23,"Pittsburgh, PA","Detroit, MI",2175,Metal Roofing Coil,2260.64,3017.75,174,50,2718.75,2575.82,75
+3/10/24,"Albany, NY","Portland, OR",2253,Fasteners and Plates,106.86,3121.49,180.24,50,2816.25,3010.13,75
+4/13/23,"Savannah, GA","Las Vegas, NV",656,Roofing Membrane Roll,518.99,897.48,52.48,0,820,885.86,25
+2/26/24,"Buffalo, NY","Seattle, WA",646,Insulation Board,630.08,1009.18,51.68,100,807.5,860.55,50
+12/4/24,"Baltimore, MD","Las Vegas, NV",1611,Fasteners and Plates,196.75,2242.63,128.88,100,2013.75,1971.52,0
+11/2/23,"Pittsburgh, PA","St. Louis, MO",925,Roofing Membrane Roll,384.35,1280.25,74,50,1156.25,1142.51,0
+4/8/23,"Boston, MA","Portland, OR",2103,Insulation Board,660.08,2946.99,168.24,100,2628.75,2505.69,50
+12/1/23,"Hartford, CT","Minneapolis, MN",1616,Roofing Membrane Roll,612.08,2274.28,129.28,100,2020,2003.7,25
+3/10/24,"Norfolk, VA","Des Moines, IA",1040,Drainage Mat,248.16,1483.2,83.2,100,1300,1187.08,0
+3/22/24,"Albany, NY","San Diego, CA",1479,Roofing Membrane Roll,389.07,2142.07,118.32,100,1848.75,1818.13,75
+11/4/23,"Philadelphia, PA","San Antonio, TX",694,Roofing Membrane Roll,352.2,948.02,55.52,0,867.5,919.07,25
+9/6/23,"Richmond, VA","Seattle, WA",1537,Metal Roofing Coil,1858.89,2094.21,122.96,50,1921.25,1767.64,0
+6/15/23,"Jacksonville, FL","Kansas City, MO",315,Drainage Mat,220.96,518.95,25.2,50,393.75,360.42,50
+4/25/24,"Tampa, FL","Chicago, IL",884,Drainage Mat,209.48,1350.72,70.72,100,1105,1024.44,75
+12/1/23,"Charlotte, NC","Los Angeles, CA",2368,Underlayment Roll,183.97,3249.44,189.44,50,2960,3212.73,50
+6/25/24,"Atlanta, GA","Salt Lake City, UT",440,Drainage Mat,215.76,685.2,35.2,100,550,538.22,0
+4/16/23,"Tampa, FL","St. Louis, MO",1152,Drainage Mat,492.46,1707.16,92.16,100,1440,1384.25,75
+7/16/24,"Boston, MA","Detroit, MI",1556,Insulation Board,779.09,2194.48,124.48,100,1945,1752.93,25
+3/22/23,"Buffalo, NY","Seattle, WA",790,Metal Roofing Coil,1992.67,1200.7,63.2,100,987.5,1037.16,50
+5/13/23,"Albany, NY","San Diego, CA",774,Underlayment Roll,212.42,1029.42,61.92,0,967.5,1031.81,0
+5/18/23,"Philadelphia, PA","Houston, TX",664,Fasteners and Plates,83.27,908.12,53.12,0,830,761.54,25
+7/3/23,"Atlanta, GA","Seattle, WA",829,Fasteners and Plates,64.3,1102.57,66.32,0,1036.25,1062.46,0
+2/5/24,"Tampa, FL","Houston, TX",2005,Drainage Mat,233.41,2791.65,160.4,50,2506.25,2587.85,75
+11/26/23,"Buffalo, NY","Seattle, WA",394,Metal Roofing Coil,2144.77,649.02,31.52,100,492.5,482.12,25
+5/22/24,"Buffalo, NY","Milwaukee, WI",660,Underlayment Roll,265.83,927.8,52.8,50,825,776.92,0
+3/10/23,"Norfolk, VA","Kansas City, MO",484,Insulation Board,804.06,718.72,38.72,0,605,576.95,75
+6/29/24,"Orlando, FL","Portland, OR",423,Underlayment Roll,222.31,687.59,33.84,50,528.75,481.87,75
+2/22/23,"Tampa, FL","Dallas, TX",2010,Underlayment Roll,275.45,2823.3,160.8,100,2512.5,2664.68,50
+3/25/24,"Orlando, FL","Minneapolis, MN",2468,Roofing Membrane Roll,556.6,3382.44,197.44,50,3085,2984.62,50
+7/24/23,"Norfolk, VA","Kansas City, MO",2138,Roofing Membrane Roll,418.91,2943.54,171.04,50,2672.5,2533.81,50
+5/6/23,"Orlando, FL","Minneapolis, MN",347,Drainage Mat,516.21,486.51,27.76,0,433.75,437.7,25
+2/12/23,"Atlanta, GA","Los Angeles, CA",1115,Drainage Mat,358.8,1582.95,89.2,100,1393.75,1460.08,0
+4/21/23,"Raleigh, NC","Detroit, MI",2059,Underlayment Roll,124.61,2738.47,164.72,0,2573.75,2825.85,0
+10/24/24,"Boston, MA","Houston, TX",817,Underlayment Roll,397.77,1236.61,65.36,100,1021.25,1121.01,50
+7/2/23,"Savannah, GA","Salt Lake City, UT",1382,Underlayment Roll,150.72,1938.06,110.56,100,1727.5,1754.38,0
+4/5/23,"Raleigh, NC","Denver, CO",1830,Fasteners and Plates,145.69,2483.9,146.4,0,2287.5,2410.11,50
+1/9/24,"Norfolk, VA","Houston, TX",329,Roofing Membrane Roll,464.48,487.57,26.32,50,411.25,397.29,0
+6/3/24,"Tampa, FL","Kansas City, MO",215,Roofing Membrane Roll,500.28,385.95,17.2,50,268.75,243.14,50
+12/26/23,"Newark, NJ","Minneapolis, MN",2376,Fasteners and Plates,153.36,3335.08,190.08,100,2970,3003.38,75
+11/26/24,"Richmond, VA","Omaha, NE",505,Insulation Board,741.28,821.65,40.4,100,631.25,627.58,50
+10/8/23,"Raleigh, NC","Detroit, MI",520,Underlayment Roll,397.59,816.6,41.6,100,650,612.34,25
+7/14/23,"Albany, NY","Los Angeles, CA",1841,Insulation Board,816.59,2623.53,147.28,100,2301.25,2129.1,75
+7/14/23,"Columbia, SC","San Diego, CA",211,Metal Roofing Coil,1865.29,380.63,16.88,100,263.75,273.06,0
+10/28/24,"Norfolk, VA","Omaha, NE",855,Insulation Board,877.57,1212.15,68.4,50,1068.75,1084.86,25
+4/3/23,"Atlanta, GA","Indianapolis, IN",1319,Drainage Mat,351.24,1779.27,105.52,0,1648.75,1636.9,25
+11/2/24,"Wilmington, DE","Detroit, MI",1044,Drainage Mat,293.33,1438.52,83.52,0,1305,1344.73,50
+3/2/23,"Norfolk, VA","Detroit, MI",1460,Insulation Board,523.98,2016.8,116.8,50,1825,1687.03,25
+9/25/24,"Providence, RI","San Diego, CA",1776,Roofing Membrane Roll,318,2412.08,142.08,50,2220,2079.45,0
+2/20/23,"Charlotte, NC","St. Louis, MO",1647,Roofing Membrane Roll,671.54,2190.51,131.76,0,2058.75,2044.48,0
+2/7/24,"Orlando, FL","Des Moines, IA",1911,Insulation Board,749.09,2641.63,152.88,100,2388.75,2451.51,0
+1/5/23,"Jacksonville, FL","Portland, OR",2237,Fasteners and Plates,150.93,3075.21,178.96,100,2796.25,2870.86,0
+4/10/24,"Hartford, CT","Phoenix, AZ",726,Roofing Membrane Roll,686.12,965.58,58.08,0,907.5,921.45,0
+8/26/24,"Providence, RI","Denver, CO",2092,Underlayment Roll,107.41,2857.36,167.36,50,2615,2420.18,25
+11/12/24,"Orlando, FL","San Antonio, TX",531,Drainage Mat,566.91,831.23,42.48,50,663.75,616.4,75
+6/17/24,"Columbia, SC","Denver, CO",2453,Underlayment Roll,397.44,3437.49,196.24,100,3066.25,3187.57,75
+2/9/24,"Norfolk, VA","Seattle, WA",1319,Underlayment Roll,281.64,1829.27,105.52,0,1648.75,1760.05,75
+5/27/24,"Wilmington, DE","Phoenix, AZ",394,Underlayment Roll,383.78,674.02,31.52,100,492.5,443.36,50
+10/6/24,"Hartford, CT","Dallas, TX",1164,Roofing Membrane Roll,332.67,1573.12,93.12,0,1455,1493.91,25
+8/21/23,"Raleigh, NC","San Antonio, TX",909,Fasteners and Plates,116.35,1233.97,72.72,0,1136.25,1173.76,25
+6/7/24,"Norfolk, VA","Phoenix, AZ",2023,Drainage Mat,250.95,2790.59,161.84,100,2528.75,2323.63,0
+12/12/23,"Albany, NY","St. Louis, MO",755,Metal Roofing Coil,2122.47,1104.15,60.4,50,943.75,909.45,50
+2/15/23,"Wilmington, DE","Omaha, NE",815,Metal Roofing Coil,2081.42,1233.95,65.2,100,1018.75,977.75,50
+6/29/24,"Orlando, FL","Dallas, TX",1578,Underlayment Roll,100.01,2123.74,126.24,0,1972.5,1993.94,25
+3/19/23,"Jacksonville, FL","Omaha, NE",999,Underlayment Roll,103.87,1378.67,79.92,0,1248.75,1363.04,50
+12/30/24,"Philadelphia, PA","Portland, OR",525,Fasteners and Plates,184.82,823.25,42,100,656.25,662.66,25
+3/14/23,"Buffalo, NY","Los Angeles, CA",1036,Fasteners and Plates,149.94,1527.88,82.88,100,1295,1227.74,50
+9/6/23,"Pittsburgh, PA","Los Angeles, CA",2078,Drainage Mat,392.02,2888.74,166.24,100,2597.5,2768.79,25
+2/16/23,"Boston, MA","Milwaukee, WI",2301,Metal Roofing Coil,2110.87,3185.33,184.08,50,2876.25,2626.48,75
+5/1/23,"Philadelphia, PA","Salt Lake City, UT",2440,Insulation Board,733.09,3395.2,195.2,100,3050,2944.43,50
+8/2/23,"Baltimore, MD","Portland, OR",905,Metal Roofing Coil,2022.81,1278.65,72.4,0,1131.25,1212.6,75
+8/27/23,"Baltimore, MD","St. Louis, MO",2378,Metal Roofing Coil,2020.67,3337.74,190.24,100,2972.5,3071.55,75
+2/25/23,"Buffalo, NY","Salt Lake City, UT",1844,Roofing Membrane Roll,577.37,2502.52,147.52,0,2305,2445.19,50
+12/16/23,"Charlotte, NC","Salt Lake City, UT",370,Insulation Board,699.98,492.1,29.6,0,462.5,478.57,0
+4/17/23,"Savannah, GA","Omaha, NE",2299,Fasteners and Plates,92.68,3182.67,183.92,100,2873.75,2941.06,25
+2/17/23,"Savannah, GA","Denver, CO",2235,Drainage Mat,293.02,3072.55,178.8,50,2793.75,2806.92,50
+7/26/24,"Hartford, CT","Dallas, TX",498,Drainage Mat,391.4,737.34,39.84,0,622.5,627.65,75
+12/3/23,"Columbia, SC","Chicago, IL",1774,Roofing Membrane Roll,560.76,2509.42,141.92,100,2217.5,2255.46,50
+1/26/23,"Hartford, CT","Indianapolis, IN",2002,Underlayment Roll,120.01,2762.66,160.16,50,2502.5,2400.23,50
+9/14/23,"Charlotte, NC","San Diego, CA",626,Metal Roofing Coil,1829.11,957.58,50.08,100,782.5,812.13,25
+1/8/23,"Newark, NJ","Detroit, MI",1592,Fasteners and Plates,139.79,2217.36,127.36,50,1990,1852.26,50
+9/16/24,"Hartford, CT","Salt Lake City, UT",1666,Underlayment Roll,342.98,2315.78,133.28,50,2082.5,2246.45,50
+9/10/23,"Savannah, GA","San Diego, CA",2144,Roofing Membrane Roll,556.39,2976.52,171.52,50,2680,2824.96,75
+11/22/24,"Orlando, FL","Las Vegas, NV",1852,Roofing Membrane Roll,443.45,2538.16,148.16,0,2315,2093.19,75
+12/19/24,"Pittsburgh, PA","Phoenix, AZ",1492,Drainage Mat,569.64,2009.36,119.36,0,1865,1989.29,25
+10/30/23,"Norfolk, VA","Seattle, WA",459,Drainage Mat,332.54,760.47,36.72,100,573.75,623.17,50
+9/30/24,"Jacksonville, FL","Des Moines, IA",1661,Metal Roofing Coil,2117.93,2259.13,132.88,0,2076.25,1972.8,50
+2/25/23,"Richmond, VA","Phoenix, AZ",946,Metal Roofing Coil,2022.59,1358.18,75.68,100,1182.5,1145.99,0
+12/26/24,"Norfolk, VA","Des Moines, IA",1690,Metal Roofing Coil,1843.43,2272.7,135.2,0,2112.5,2115.01,25
+6/9/24,"Orlando, FL","Des Moines, IA",547,Drainage Mat,224.44,752.51,43.76,0,683.75,629.92,25
+4/18/24,"Philadelphia, PA","San Diego, CA",884,Drainage Mat,341.89,1275.72,70.72,100,1105,1094.41,0
+1/28/23,"Philadelphia, PA","Indianapolis, IN",706,Fasteners and Plates,112.22,1063.98,56.48,100,882.5,903.05,25
+3/19/23,"Richmond, VA","Portland, OR",621,Roofing Membrane Roll,559.29,975.93,49.68,100,776.25,763.05,50
+8/4/23,"Philadelphia, PA","Dallas, TX",1392,Underlayment Roll,294.63,1951.36,111.36,50,1740,1732.14,50
+1/21/24,"Buffalo, NY","San Diego, CA",941,Drainage Mat,410.1,1351.53,75.28,100,1176.25,1138.16,0
+12/31/23,"Albany, NY","Kansas City, MO",1411,Underlayment Roll,148.76,2001.63,112.88,50,1763.75,1600.81,75
+10/27/24,"Providence, RI","Kansas City, MO",929,Roofing Membrane Roll,383.53,1260.57,74.32,0,1161.25,1054.87,25
+6/9/24,"Buffalo, NY","Dallas, TX",490,Drainage Mat,548.77,726.7,39.2,0,612.5,582.4,75
+11/29/24,"Wilmington, DE","San Diego, CA",1858,Fasteners and Plates,131.04,2596.14,148.64,100,2322.5,2353.09,25
+11/8/23,"Buffalo, NY","Minneapolis, MN",1379,Metal Roofing Coil,1903.85,1884.07,110.32,0,1723.75,1600.84,50
+1/7/23,"Hartford, CT","Milwaukee, WI",620,Drainage Mat,547.98,849.6,49.6,0,775,778.67,25
+1/3/23,"Atlanta, GA","Salt Lake City, UT",1501,Underlayment Roll,326.54,2171.33,120.08,100,1876.25,1985.6,75
+9/14/24,"Tampa, FL","Seattle, WA",1753,Insulation Board,831.46,2431.49,140.24,50,2191.25,2093.55,50
+12/29/23,"Savannah, GA","San Antonio, TX",641,Insulation Board,771.4,902.53,51.28,50,801.25,876.72,0
+5/22/24,"Jacksonville, FL","Salt Lake City, UT",1935,Roofing Membrane Roll,457.65,2648.55,154.8,50,2418.75,2404,25
+10/1/23,"Buffalo, NY","Indianapolis, IN",1580,Roofing Membrane Roll,532.26,2151.4,126.4,50,1975,2043.04,0
+5/20/24,"Hartford, CT","St. Louis, MO",1747,Roofing Membrane Roll,359.66,2423.51,139.76,50,2183.75,2235.26,50
+1/15/23,"Richmond, VA","Detroit, MI",604,Drainage Mat,593.01,953.32,48.32,100,755,713.73,50
+7/11/23,"Charlotte, NC","Omaha, NE",470,Metal Roofing Coil,1892.53,675.1,37.6,50,587.5,604.41,0
+9/22/24,"Hartford, CT","Salt Lake City, UT",473,Fasteners and Plates,67.47,754.09,37.84,100,591.25,554.51,25
+4/29/24,"Hartford, CT","San Antonio, TX",1644,Roofing Membrane Roll,453.29,2286.52,131.52,50,2055,2031.4,50
+1/28/23,"Savannah, GA","San Diego, CA",779,Insulation Board,578.76,1136.07,62.32,100,973.75,990.89,0
+12/14/24,"Boston, MA","Kansas City, MO",2207,Drainage Mat,401.42,3035.31,176.56,50,2758.75,2603.25,50
+2/8/23,"Baltimore, MD","Omaha, NE",1790,Insulation Board,752.58,2505.7,143.2,100,2237.5,2442.43,25
+9/30/23,"Baltimore, MD","Portland, OR",423,Drainage Mat,265.85,662.59,33.84,100,528.75,542.04,0
+8/19/23,"Boston, MA","Seattle, WA",2444,Insulation Board,508.41,3350.52,195.52,50,3055,2922.64,50
+3/27/23,"Savannah, GA","Des Moines, IA",1089,Underlayment Roll,168.03,1598.37,87.12,100,1361.25,1395.37,50
+4/18/24,"Philadelphia, PA","Denver, CO",1562,Roofing Membrane Roll,365.35,2177.46,124.96,50,1952.5,1836.25,50
+5/6/23,"Albany, NY","Portland, OR",1619,Roofing Membrane Roll,539.2,2253.27,129.52,100,2023.75,2167.36,0
+6/20/24,"Tampa, FL","Phoenix, AZ",1103,Insulation Board,693.32,1616.99,88.24,100,1378.75,1294.42,50
+5/25/23,"Buffalo, NY","Los Angeles, CA",796,Roofing Membrane Roll,502.28,1208.68,63.68,100,995,909.66,50
+6/8/24,"Boston, MA","Chicago, IL",2256,Drainage Mat,408.18,3050.48,180.48,50,2820,3079.32,0
+7/31/23,"Tampa, FL","San Diego, CA",1038,Drainage Mat,567.02,1455.54,83.04,50,1297.5,1381.15,25
+1/25/23,"Providence, RI","Phoenix, AZ",2220,Fasteners and Plates,131.19,3027.6,177.6,0,2775,2680.87,75
+8/2/24,"Richmond, VA","Portland, OR",505,Insulation Board,836.87,696.65,40.4,0,631.25,584.15,25
+1/29/24,"Buffalo, NY","Indianapolis, IN",619,Fasteners and Plates,163.51,848.27,49.52,0,773.75,705.52,25
+3/8/23,"Hartford, CT","Las Vegas, NV",1650,Insulation Board,773.73,2194.5,132,0,2062.5,1915.05,0
+8/21/23,"Pittsburgh, PA","Las Vegas, NV",2019,Underlayment Roll,127.34,2785.27,161.52,50,2523.75,2610.76,50
+4/19/23,"Tampa, FL","Omaha, NE",2426,Metal Roofing Coil,2269.3,3326.58,194.08,100,3032.5,3193.81,0
+5/26/23,"Tampa, FL","Kansas City, MO",667,Roofing Membrane Roll,466.18,887.11,53.36,0,833.75,754.08,0
+4/21/23,"Columbia, SC","Kansas City, MO",522,Fasteners and Plates,64.76,819.26,41.76,50,652.5,665.47,75
+8/16/23,"Philadelphia, PA","Milwaukee, WI",347,Roofing Membrane Roll,685.26,536.51,27.76,50,433.75,443.95,25
+4/21/23,"Charlotte, NC","Los Angeles, CA",2238,Insulation Board,771.02,3026.54,179.04,0,2797.5,2783.56,50
+4/14/24,"Hartford, CT","Milwaukee, WI",1337,Underlayment Roll,334.49,1928.21,106.96,100,1671.25,1621.09,50
+2/3/23,"Jacksonville, FL","Detroit, MI",1198,Roofing Membrane Roll,637.5,1618.34,95.84,0,1497.5,1553.6,25
+9/14/24,"Boston, MA","Kansas City, MO",1651,Roofing Membrane Roll,632.25,2245.83,132.08,0,2063.75,2117.7,50
+1/4/24,"Savannah, GA","Milwaukee, WI",2073,Roofing Membrane Roll,691.29,2932.09,165.84,100,2591.25,2473.43,75
+8/17/24,"Tampa, FL","Portland, OR",1763,Drainage Mat,431.34,2469.79,141.04,100,2203.75,2013.33,25
+7/7/24,"Raleigh, NC","Minneapolis, MN",1834,Fasteners and Plates,58.94,2564.22,146.72,50,2292.5,2362.32,75
+2/29/24,"Tampa, FL","Omaha, NE",1566,Roofing Membrane Roll,519.44,2207.78,125.28,50,1957.5,1784.92,75
+9/4/24,"Columbia, SC","Houston, TX",643,Roofing Membrane Roll,570.18,930.19,51.44,0,803.75,744.76,75
+6/1/24,"Hartford, CT","St. Louis, MO",2461,Roofing Membrane Roll,592.07,3273.13,196.88,0,3076.25,3035.68,0
+11/22/24,"Hartford, CT","Seattle, WA",2312,Underlayment Roll,397.46,3199.96,184.96,50,2890,2806.44,75
+10/9/23,"Philadelphia, PA","Denver, CO",1118,Drainage Mat,492.35,1561.94,89.44,50,1397.5,1520.11,25
+11/16/23,"Philadelphia, PA","Los Angeles, CA",2140,Fasteners and Plates,136.34,2896.2,171.2,0,2675,2513.87,50
+3/18/24,"Charlotte, NC","San Diego, CA",1689,Metal Roofing Coil,2199.2,2396.37,135.12,100,2111.25,2249.54,50
+11/11/23,"Charlotte, NC","Los Angeles, CA",1273,Roofing Membrane Roll,441.93,1793.09,101.84,100,1591.25,1515.24,0
+1/12/24,"Wilmington, DE","Omaha, NE",495,Insulation Board,797.89,708.35,39.6,0,618.75,617.29,50
+10/16/23,"Philadelphia, PA","Des Moines, IA",1827,Drainage Mat,326.92,2454.91,146.16,0,2283.75,2372.37,25
+3/12/24,"Providence, RI","St. Louis, MO",1721,Drainage Mat,315.27,2288.93,137.68,0,2151.25,2149.63,0
+10/23/24,"Tampa, FL","Los Angeles, CA",1101,Metal Roofing Coil,1969.8,1489.33,88.08,0,1376.25,1326.34,25
+10/4/23,"Hartford, CT","Portland, OR",1726,Fasteners and Plates,191.22,2370.58,138.08,0,2157.5,2145.27,75
+12/10/24,"Newark, NJ","Los Angeles, CA",2183,Underlayment Roll,109.28,2978.39,174.64,0,2728.75,2653.24,75
+8/4/24,"Pittsburgh, PA","Portland, OR",2248,Insulation Board,708.55,3064.84,179.84,0,2810,2541.68,75
+5/17/24,"Newark, NJ","San Antonio, TX",544,Drainage Mat,248.68,823.52,43.52,50,680,697.27,50
+9/15/24,"Jacksonville, FL","Houston, TX",727,Metal Roofing Coil,2100.77,1016.91,58.16,50,908.75,983.82,0
+5/30/24,"Norfolk, VA","San Antonio, TX",680,Roofing Membrane Roll,430.97,1029.4,54.4,50,850,795.8,75
+12/16/23,"Richmond, VA","Phoenix, AZ",544,Underlayment Roll,174.06,723.52,43.52,0,680,692.79,0
+3/21/24,"Wilmington, DE","Minneapolis, MN",2087,Insulation Board,670.6,2825.71,166.96,0,2608.75,2390.44,50
+12/16/23,"Pittsburgh, PA","Indianapolis, IN",1233,Metal Roofing Coil,2306.15,1714.89,98.64,50,1541.25,1607.49,25
+8/29/24,"Columbia, SC","Indianapolis, IN",1979,Fasteners and Plates,92.49,2682.07,158.32,0,2473.75,2628.05,50
+10/25/24,"Albany, NY","San Diego, CA",1391,Drainage Mat,354.98,1875.03,111.28,0,1738.75,1672.26,25
+5/17/23,"Richmond, VA","Detroit, MI",471,Drainage Mat,573.1,801.43,37.68,100,588.75,547.98,75
+8/31/23,"Baltimore, MD","Seattle, WA",987,Metal Roofing Coil,2294.91,1437.71,78.96,100,1233.75,1273.98,25
+6/26/24,"Savannah, GA","Indianapolis, IN",1137,Fasteners and Plates,172.41,1562.21,90.96,0,1421.25,1483.83,50
+2/9/23,"Hartford, CT","St. Louis, MO",266,Metal Roofing Coil,1893.05,453.78,21.28,100,332.5,314.62,0
+8/17/23,"Newark, NJ","Houston, TX",1834,Metal Roofing Coil,1896.34,2439.22,146.72,0,2292.5,2126.58,0
+7/1/24,"Tampa, FL","Salt Lake City, UT",852,Drainage Mat,283.78,1208.16,68.16,0,1065,1009.42,75
+8/11/23,"Raleigh, NC","Milwaukee, WI",398,Metal Roofing Coil,1828.2,654.34,31.84,50,497.5,515.46,75
+1/6/23,"Wilmington, DE","Seattle, WA",2031,Roofing Membrane Roll,383.88,2801.23,162.48,100,2538.75,2327.39,0
+11/18/23,"Boston, MA","Milwaukee, WI",378,Fasteners and Plates,95.51,502.74,30.24,0,472.5,497.62,0
+4/12/24,"Pittsburgh, PA","Seattle, WA",987,Metal Roofing Coil,1906.32,1437.71,78.96,100,1233.75,1142.63,25
+3/16/23,"Pittsburgh, PA","Portland, OR",1857,Underlayment Roll,389.56,2619.81,148.56,100,2321.25,2382.54,50
+1/4/23,"Philadelphia, PA","Houston, TX",793,Insulation Board,701.78,1229.69,63.44,100,991.25,1020.04,75
+10/7/24,"Newark, NJ","Phoenix, AZ",1949,Underlayment Roll,290.82,2717.17,155.92,100,2436.25,2195.95,25
+4/28/23,"Charlotte, NC","Indianapolis, IN",343,Metal Roofing Coil,1939.04,456.19,27.44,0,428.75,417.62,0
+8/28/24,"Buffalo, NY","Houston, TX",2430,Underlayment Roll,197.12,3306.9,194.4,50,3037.5,2844.81,25
+5/18/24,"Richmond, VA","Milwaukee, WI",1367,Fasteners and Plates,146.24,1968.11,109.36,100,1708.75,1629.26,50
+7/27/24,"Hartford, CT","Kansas City, MO",1955,Fasteners and Plates,87.28,2750.15,156.4,100,2443.75,2627.27,50
+3/16/24,"Charlotte, NC","Denver, CO",1230,Underlayment Roll,377.86,1810.9,98.4,100,1537.5,1625.16,75
+7/13/23,"Columbia, SC","Seattle, WA",1113,Metal Roofing Coil,1902.69,1605.29,89.04,100,1391.25,1489.56,25
+12/15/24,"Jacksonville, FL","San Diego, CA",2072,Metal Roofing Coil,2032.13,2830.76,165.76,50,2590,2665.49,25
+1/27/24,"Raleigh, NC","Des Moines, IA",1507,Underlayment Roll,173.07,2104.31,120.56,100,1883.75,1762.11,0
+1/26/23,"Providence, RI","Indianapolis, IN",887,Insulation Board,554.92,1229.71,70.96,0,1108.75,1149.25,50
+3/10/24,"Newark, NJ","Minneapolis, MN",1551,Fasteners and Plates,162.77,2237.83,124.08,100,1938.75,2111.59,75
+6/22/23,"Tampa, FL","San Diego, CA",1550,Insulation Board,813.29,2061.5,124,0,1937.5,2126.04,0
+10/27/23,"Hartford, CT","Indianapolis, IN",1535,Fasteners and Plates,161.3,2141.55,122.8,50,1918.75,1823.7,50
+10/6/24,"Atlanta, GA","Milwaukee, WI",2484,Drainage Mat,455.34,3453.72,198.72,100,3105,3240.05,50
+11/22/23,"Savannah, GA","Denver, CO",1166,Underlayment Roll,165.31,1700.78,93.28,100,1457.5,1360.8,50
+2/14/24,"Buffalo, NY","San Diego, CA",889,Drainage Mat,470.66,1282.37,71.12,100,1111.25,1160.23,0
+4/28/23,"Baltimore, MD","Denver, CO",2456,Insulation Board,623.15,3441.48,196.48,100,3070,3249.94,75
+12/24/24,"Charlotte, NC","Indianapolis, IN",571,Drainage Mat,531.83,934.43,45.68,100,713.75,657.42,75
+8/13/23,"Charlotte, NC","Indianapolis, IN",1591,Insulation Board,687.52,2166.03,127.28,0,1988.75,2156.68,50
+6/15/24,"Columbia, SC","Chicago, IL",1247,Metal Roofing Coil,2415.5,1783.51,99.76,100,1558.75,1593.67,25
+4/23/23,"Newark, NJ","Detroit, MI",1558,Fasteners and Plates,182.96,2222.14,124.64,100,1947.5,2127.22,50
+5/20/23,"Columbia, SC","Minneapolis, MN",2494,Metal Roofing Coil,2403.75,3467.02,199.52,100,3117.5,2960.87,50
+7/12/24,"Charlotte, NC","Denver, CO",1183,Roofing Membrane Roll,645.39,1598.39,94.64,0,1478.75,1372.06,25
+1/1/23,"Jacksonville, FL","Omaha, NE",1224,Underlayment Roll,373.45,1752.92,97.92,50,1530,1489.96,75
+3/31/23,"Hartford, CT","San Antonio, TX",1305,Fasteners and Plates,129.13,1835.65,104.4,50,1631.25,1619.05,50
+10/15/24,"Norfolk, VA","Los Angeles, CA",1120,Metal Roofing Coil,2153.86,1589.6,89.6,50,1400,1277.68,50
+11/16/23,"Columbia, SC","Portland, OR",1580,Metal Roofing Coil,1974.98,2176.4,126.4,50,1975,2120.82,25
+7/3/24,"Providence, RI","Des Moines, IA",956,Insulation Board,666.06,1396.48,76.48,50,1195,1122.28,75
+5/19/23,"Savannah, GA","Los Angeles, CA",1138,Insulation Board,841.3,1563.54,91.04,0,1422.5,1359.02,50
+5/25/24,"Jacksonville, FL","Indianapolis, IN",796,Metal Roofing Coil,2326.48,1183.68,63.68,100,995,959.35,25
+9/16/23,"Hartford, CT","San Diego, CA",1751,Underlayment Roll,193.47,2503.83,140.08,100,2188.75,1993.83,75
+11/3/24,"Wilmington, DE","Houston, TX",1649,Drainage Mat,391.48,2243.17,131.92,0,2061.25,1898.58,50
+11/20/24,"Savannah, GA","Houston, TX",1662,Roofing Membrane Roll,666,2235.46,132.96,0,2077.5,1919.76,25
+1/10/23,"Pittsburgh, PA","Detroit, MI",1094,Insulation Board,850.48,1530.02,87.52,0,1367.5,1423.72,75
+9/18/23,"Tampa, FL","Dallas, TX",1906,Metal Roofing Coil,2158.67,2709.98,152.48,100,2382.5,2440.31,75
+10/11/24,"Atlanta, GA","Salt Lake City, UT",427,Insulation Board,593.8,642.91,34.16,50,533.75,491.91,25
+6/21/23,"Jacksonville, FL","Detroit, MI",671,Fasteners and Plates,58.07,917.43,53.68,0,838.75,820.6,25
+1/13/23,"Baltimore, MD","Las Vegas, NV",2360,Insulation Board,680.88,3138.8,188.8,0,2950,3060.04,0
+6/17/23,"Richmond, VA","St. Louis, MO",1302,Underlayment Roll,252.67,1831.66,104.16,50,1627.5,1746.64,50
+10/3/24,"Providence, RI","Phoenix, AZ",1065,Fasteners and Plates,54.76,1516.45,85.2,50,1331.25,1208.16,50
+8/18/24,"Norfolk, VA","Dallas, TX",1841,Insulation Board,693.29,2573.53,147.28,100,2301.25,2418.42,25
+11/17/23,"Newark, NJ","Indianapolis, IN",1291,Insulation Board,813,1792.03,103.28,50,1613.75,1581.04,25
+11/15/23,"Providence, RI","Indianapolis, IN",2069,Insulation Board,538.95,2826.77,165.52,0,2586.25,2331.24,75
+9/4/24,"Orlando, FL","Kansas City, MO",2207,Fasteners and Plates,193.11,3035.31,176.56,100,2758.75,2483.2,0
